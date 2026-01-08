@@ -1,0 +1,11 @@
+{
+    "default": {
+        "first_name": "",
+        "last_name": "",
+        "dob": "1995-04-08",
+        "gender": "Male",
+        "smoker_status": "Non Smoker",
+        "email": "",
+        "phone": ""
+    }
+}

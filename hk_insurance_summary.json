@@ -1,0 +1,24 @@
+{
+    "total_plans": 1116,
+    "plans_by_company": {
+        "FWD | 富衛": 128,
+        "China Life | 中國人壽": 88,
+        "Sun Life | Sun Life 永明": 160,
+        "AXA Hong Kong and Macau | AXA 安盛": 128,
+        "Generali | 忠意保險": 64,
+        "YF Life | 萬通保險": 32,
+        "Manulife | 宏利": 160,
+        "BOC Life | 中銀人壽": 96,
+        "Prudential | 保誠保險": 36,
+        "CTF Life | 周大福人壽": 64,
+        "AIA | 友邦香港": 96,
+        "Chubb Life | 安達人壽": 32,
+        "Well Link Life | 立橋人壽": 32
+    },
+    "avg_price": 365.9309289127846,
+    "avg_score": 8.64587813620073,
+    "price_range": {
+        "min": 0.0,
+        "max": 1138.8333333333333
+    }
+}

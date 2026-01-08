@@ -1,0 +1,103 @@
+{
+    "default": [
+        {
+            "id": "whole_life_0",
+            "title": "Crisis OneMaster",
+            "company": "FWD | \u5bcc\u885b",
+            "type": "whole_life",
+            "price": 527.75,
+            "features": [
+                "68 Major Illnesses",
+                "102 Early Stage Illnesses",
+                "Maximum Payout: 1374.0%",
+                "Premium Term: 25 years"
+            ],
+            "details": {
+                "whole_life_score": 10.0,
+                "terms_score": 9.0,
+                "total_score": 9.9,
+                "original_whole_life_score": "10.0 / 10",
+                "original_terms_score": "9.0 / 10",
+                "original_total_score": "9.9 / 10",
+                "gender": "Male",
+                "age": 35,
+                "smoker_status": "Non Smoker",
+                "premium_term_years": 25,
+                "annual_premium": "USD 6,333",
+                "annual_premium_value": 6333.0,
+                "major_illnesses": 68,
+                "early_illnesses": 102,
+                "maximum_payout": "1374.0%",
+                "waiting_period": "90 Days",
+                "issue_age": "Age 0 to Age 50"
+            },
+            "date_saved": "April 21, 2025"
+        },
+        {
+            "id": "whole_life_34",
+            "title": "BestCarePro (Multiple claims rider)",
+            "company": "BOC Life | \u4e2d\u9280\u4eba\u58fd",
+            "type": "whole_life",
+            "price": 396.6666666666667,
+            "features": [
+                "55 Major Illnesses",
+                "39 Early Stage Illnesses",
+                "Maximum Payout: 600.0%",
+                "Premium Term: 20 years"
+            ],
+            "details": {
+                "whole_life_score": 7.9,
+                "terms_score": 6.4,
+                "total_score": 7.3,
+                "original_whole_life_score": "7.9 / 10",
+                "original_terms_score": "6.4 / 10",
+                "original_total_score": "7.3 / 10",
+                "gender": "Male",
+                "age": 35,
+                "smoker_status": "Non Smoker",
+                "premium_term_years": 20,
+                "annual_premium": "USD 4,760",
+                "annual_premium_value": 4760.0,
+                "major_illnesses": 55,
+                "early_illnesses": 39,
+                "maximum_payout": "600.0%",
+                "waiting_period": "90 Days",
+                "issue_age": "Age 0 to Age 55"
+            },
+            "date_saved": "April 21, 2025"
+        },
+        {
+            "id": "whole_life_2",
+            "title": "TotalGuard Critical Illness Multiple Protector (SS)",
+            "company": "China Life | \u4e2d\u570b\u4eba\u58fd",
+            "type": "whole_life",
+            "price": 560.25,
+            "features": [
+                "93 Major Illnesses",
+                "101 Early Stage Illnesses",
+                "Maximum Payout: 900.0%",
+                "Premium Term: 25 years"
+            ],
+            "details": {
+                "whole_life_score": 9.4,
+                "terms_score": 10.0,
+                "total_score": 9.6,
+                "original_whole_life_score": "9.4 / 10",
+                "original_terms_score": "10 / 10",
+                "original_total_score": "9.6 / 10",
+                "gender": "Male",
+                "age": 35,
+                "smoker_status": "Non Smoker",
+                "premium_term_years": 25,
+                "annual_premium": "USD 6,723",
+                "annual_premium_value": 6723.0,
+                "major_illnesses": 93,
+                "early_illnesses": 101,
+                "maximum_payout": "900.0%",
+                "waiting_period": "90 Days",
+                "issue_age": "Age 0 to Age 50"
+            },
+            "date_saved": "April 22, 2025"
+        }
+    ]
+}

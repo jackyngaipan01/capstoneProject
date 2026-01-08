@@ -1,0 +1,1117 @@
+﻿Gender;Age;Smoker_Status;Name;Company;TotalScore;WholeLifeScore;TermsScore;PremiumTerm_Years;AnnualPremium;Number_of_Covered_Major_Illnesses;Number_of_Covered_Early_Illnesses;Maximum_Payout;Waiting_Period;Issue_Age
+Male;35;Non Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 6,333;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;35;Non Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 6,824;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;35;Non Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 6,723;93;101;900.0%;90 Days;Age 0 to Age 50
+Male;35;Non Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 4,275;71;117;700.0%;60 Days;Age 0 to Age 50
+Male;35;Non Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 5,468;63;75;1300.0%;60 Days;Age 0 to Age 60
+Male;35;Non Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 4,100;69;69;Not specified;60 Days;Age 0 to Age 55
+Male;35;Non Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 3,923;69;69;720.0%;60 Days;Age 0 to Age 55
+Male;35;Non Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 4,955;62;65;1152.0%;90 Days;Age 0 to Age 50
+Male;35;Non Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 4,551;62;65;1121.0%;90 Days;Age 0 to Age 50
+Male;35;Non Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 4,086;68;50;740.0%;60 Days;Age 0 to Age 55
+Male;35;Non Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 4,564;60;44;900.0%;90 Days;Age 0 to Age 60
+Male;35;Non Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 4,329;63;75;1000.0%;60 Days;Age 0 to Age 60
+Male;35;Non Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 4,617;89;76;500.0%;60 Days;Age 0 to Age 50
+Male;35;Non Smoker;Health Critical Illness Extended Care III;Prudential | 保誠保險;9.0 / 10;8.8 / 10;9.2 / 10;25;USD 4,787;56;61;860.0%;90 Days;Age 0 to Age 49
+Male;35;Non Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 5,584;93;101;800.0%;90 Days;Age 0 to Age 50
+Male;35;Non Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 4,348;60;44;680.0%;90 Days;Age 0 to Age 60
+Male;35;Non Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 3,758;71;117;500.0%;60 Days;Age 0 to Age 50
+Male;35;Non Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 4,119;71;127;700.0%;60 Days;Age 0 to Age 50
+Male;35;Non Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 4,112;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;35;Non Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 3,875;60;63;500.0%;90 Days;Age 0 to Age 60
+Male;35;Non Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 4,038;69;83;500.0%;60 Days;Age 0 to Age 50
+Male;35;Non Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 5,058;63;62;1100.0%;90 Days;Age 0 to Age 50
+Male;35;Non Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 5,332;60;30;700.0%;90 Days;Age 0 to Age 60
+Male;35;Non Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 4,800;56;71;900.0%;90 Days;Age 0 to Age 49
+Male;35;Non Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 4,227;64;62;950.0%;90 Days;Age 0 to Age 50
+Male;35;Non Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 4,008;65;56;500.0%;60 Days;Age 0 to Age 55
+Male;35;Non Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 4,339;88;88;420.0%;90 Days;Age 0 to Age 50
+Male;35;Non Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 4,036;60;44;500.0%;90 Days;Age 0 to Age 60
+Male;35;Non Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 4,185;63;62;900.0%;90 Days;Age 0 to Age 50
+Male;35;Non Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 5,541;62;54;900.0%;60 Days;Age 0 to Age 50
+Male;35;Non Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 4,842;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;35;Non Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 5,381;62;54;500.0%;60 Days;Age 0 to Age 50
+Male;35;Non Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 4,853;62;45;500.0%;60 Days;Age 0 to Age 45
+Male;35;Non Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 3,953;53;3;500.0%;90 Days;Age 0 to Age 55
+Male;35;Non Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 4,760;55;39;600.0%;90 Days;Age 0 to Age 55
+Male;35;Non Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 4,365;55;39;420.0%;90 Days;Age 0 to Age 55
+Male;0;Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 2,720;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;0;Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 2,787;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;0;Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 2,763;93;101;900.0%;90 Days;Age 0 to Age 50
+Male;0;Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 1,665;71;117;700.0%;60 Days;Age 0 to Age 50
+Male;0;Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 2,295;63;75;1300.0%;60 Days;Age 0 to Age 60
+Male;0;Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 1,514;69;69;Not specified;60 Days;Age 0 to Age 55
+Male;0;Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 1,514;69;69;720.0%;60 Days;Age 0 to Age 55
+Male;0;Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 2,174;62;65;1152.0%;90 Days;Age 0 to Age 55
+Male;0;Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 1,992;62;65;1121.0%;90 Days;Age 0 to Age 55
+Male;0;Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 1,904;68;50;740.0%;60 Days;Age 0 to Age 55
+Male;0;Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 1,726;60;44;900.0%;90 Days;Age 0 to Age 60
+Male;0;Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 1,775;63;75;1000.0%;60 Days;Age 0 to Age 60
+Male;0;Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 0;89;76;500.0%;60 Days;Age 0 to Age 50
+Male;0;Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 2,145;93;101;800.0%;90 Days;Age 0 to Age 50
+Male;0;Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 1,793;60;44;680.0%;90 Days;Age 0 to Age 60
+Male;0;Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 1,500;71;117;500.0%;60 Days;Age 0 to Age 50
+Male;0;Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 1,671;71;127;700.0%;60 Days;Age 0 to Age 50
+Male;0;Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 1,602;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;0;Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 1,504;60;63;500.0%;90 Days;Age 0 to Age 60
+Male;0;Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 1,671;69;83;500.0%;60 Days;Age 0 to Age 50
+Male;0;Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 2,041;60;30;700.0%;90 Days;Age 0 to Age 60
+Male;0;Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 2,061;63;62;1100.0%;90 Days;Age 0 to Age 50
+Male;0;Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 1,916;64;62;950.0%;90 Days;Age 0 to Age 50
+Male;0;Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 1,465;65;56;500.0%;60 Days;Age 0 to Age 55
+Male;0;Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 1,667;60;44;500.0%;90 Days;Age 0 to Age 60
+Male;0;Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 1,742;63;62;900.0%;90 Days;Age 0 to Age 50
+Male;0;Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;20;USD 0;62;54;900.0%;60 Days;Age 0 to Age 50
+Male;0;Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 2,123;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;0;Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;20;USD 0;62;54;500.0%;60 Days;Age 0 to Age 50
+Male;0;Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 2,096;62;45;500.0%;60 Days;Age 0 to Age 45
+Male;0;Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 1,394;53;3;500.0%;90 Days;Age 0 to Age 55
+Male;0;Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 1,868;55;39;600.0%;90 Days;Age 0 to Age 55
+Male;0;Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 1,683;55;39;420.0%;90 Days;Age 0 to Age 55
+Male;10;Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 3,455;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;10;Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 3,604;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;10;Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 3,402;93;101;900.0%;90 Days;Age 0 to Age 50
+Male;10;Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 2,168;71;117;700.0%;60 Days;Age 0 to Age 50
+Male;10;Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 2,885;63;75;1300.0%;60 Days;Age 0 to Age 60
+Male;10;Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 1,871;69;69;Not specified;60 Days;Age 0 to Age 55
+Male;10;Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 1,919;69;69;720.0%;60 Days;Age 0 to Age 55
+Male;10;Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 2,766;62;65;1152.0%;90 Days;Age 0 to Age 55
+Male;10;Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 2,531;62;65;1121.0%;90 Days;Age 0 to Age 55
+Male;10;Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 2,171;68;50;740.0%;60 Days;Age 0 to Age 55
+Male;10;Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 2,224;60;44;900.0%;90 Days;Age 0 to Age 60
+Male;10;Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 2,223;63;75;1000.0%;60 Days;Age 0 to Age 60
+Male;10;Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 0;89;76;500.0%;60 Days;Age 0 to Age 50
+Male;10;Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 2,719;93;101;800.0%;90 Days;Age 0 to Age 50
+Male;10;Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 2,294;60;44;680.0%;90 Days;Age 0 to Age 60
+Male;10;Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 1,904;71;117;500.0%;60 Days;Age 0 to Age 50
+Male;10;Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 2,185;71;127;700.0%;60 Days;Age 0 to Age 50
+Male;10;Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 2,043;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;10;Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 1,943;60;63;500.0%;90 Days;Age 0 to Age 60
+Male;10;Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 2,082;69;83;500.0%;60 Days;Age 0 to Age 50
+Male;10;Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 2,498;63;62;1100.0%;90 Days;Age 0 to Age 50
+Male;10;Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 2,705;60;30;700.0%;90 Days;Age 0 to Age 60
+Male;10;Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 2,286;64;62;950.0%;90 Days;Age 0 to Age 50
+Male;10;Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 1,891;65;56;500.0%;60 Days;Age 0 to Age 55
+Male;10;Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 2,123;60;44;500.0%;90 Days;Age 0 to Age 60
+Male;10;Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 2,078;63;62;900.0%;90 Days;Age 0 to Age 50
+Male;10;Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;20;USD 0;62;54;900.0%;60 Days;Age 0 to Age 50
+Male;10;Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 2,735;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;10;Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;20;USD 0;62;54;500.0%;60 Days;Age 0 to Age 50
+Male;10;Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 2,631;62;45;500.0%;60 Days;Age 0 to Age 45
+Male;10;Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 1,854;53;3;500.0%;90 Days;Age 0 to Age 55
+Male;10;Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 2,340;55;39;600.0%;90 Days;Age 0 to Age 55
+Male;10;Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 2,157;55;39;420.0%;90 Days;Age 0 to Age 55
+Male;18;Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 4,404;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;18;Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 4,656;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;18;Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 5,356;93;101;900.0%;90 Days;Age 0 to Age 50
+Male;18;Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 3,180;71;117;700.0%;60 Days;Age 0 to Age 50
+Male;18;Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 3,989;63;75;1300.0%;60 Days;Age 0 to Age 60
+Male;18;Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 3,119;69;69;Not specified;60 Days;Age 0 to Age 55
+Male;18;Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 2,532;69;69;720.0%;60 Days;Age 0 to Age 55
+Male;18;Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 3,489;62;65;1152.0%;90 Days;Age 0 to Age 55
+Male;18;Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 3,183;62;65;1121.0%;90 Days;Age 0 to Age 55
+Male;18;Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 2,915;68;50;740.0%;60 Days;Age 0 to Age 55
+Male;18;Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 3,307;60;44;900.0%;90 Days;Age 0 to Age 60
+Male;18;Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 3,038;63;75;1000.0%;60 Days;Age 0 to Age 60
+Male;18;Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 3,458;89;76;500.0%;60 Days;Age 0 to Age 50
+Male;18;Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 4,008;93;101;800.0%;90 Days;Age 0 to Age 50
+Male;18;Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 3,226;60;44;680.0%;90 Days;Age 0 to Age 60
+Male;18;Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 2,682;71;117;500.0%;60 Days;Age 0 to Age 50
+Male;18;Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 3,378;71;127;700.0%;60 Days;Age 0 to Age 50
+Male;18;Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 2,769;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;18;Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 2,789;60;63;500.0%;90 Days;Age 0 to Age 60
+Male;18;Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 3,171;69;83;500.0%;60 Days;Age 0 to Age 50
+Male;18;Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 3,437;63;62;1100.0%;90 Days;Age 0 to Age 50
+Male;18;Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 3,941;60;30;700.0%;90 Days;Age 0 to Age 60
+Male;18;Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 3,363;56;71;900.0%;90 Days;Age 0 to Age 49
+Male;18;Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 3,074;64;62;950.0%;90 Days;Age 0 to Age 50
+Male;18;Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 2,601;65;56;500.0%;60 Days;Age 0 to Age 55
+Male;18;Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 2,881;88;88;420.0%;90 Days;Age 0 to Age 50
+Male;18;Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 2,965;60;44;500.0%;90 Days;Age 0 to Age 60
+Male;18;Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 2,825;63;62;900.0%;90 Days;Age 0 to Age 50
+Male;18;Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 3,668;62;54;900.0%;60 Days;Age 0 to Age 50
+Male;18;Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 3,848;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;18;Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 3,561;62;54;500.0%;60 Days;Age 0 to Age 50
+Male;18;Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 3,963;62;45;500.0%;60 Days;Age 0 to Age 45
+Male;18;Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 2,682;53;3;500.0%;90 Days;Age 0 to Age 55
+Male;18;Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 2,780;55;39;600.0%;90 Days;Age 0 to Age 55
+Male;18;Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 2,949;55;39;420.0%;90 Days;Age 0 to Age 55
+Male;25;Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 5,490;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;25;Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 5,870;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;25;Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 6,597;93;101;900.0%;90 Days;Age 0 to Age 50
+Male;25;Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 3,960;71;117;700.0%;60 Days;Age 0 to Age 50
+Male;25;Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 4,976;63;75;1300.0%;60 Days;Age 0 to Age 60
+Male;25;Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 3,794;69;69;Not specified;60 Days;Age 0 to Age 55
+Male;25;Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 3,890;69;69;720.0%;60 Days;Age 0 to Age 55
+Male;25;Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 4,133;62;65;1152.0%;90 Days;Age 0 to Age 50
+Male;25;Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 3,786;62;65;1121.0%;90 Days;Age 0 to Age 50
+Male;25;Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 3,659;68;50;740.0%;60 Days;Age 0 to Age 55
+Male;25;Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 4,106;60;44;900.0%;90 Days;Age 0 to Age 60
+Male;25;Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 3,833;63;75;1000.0%;60 Days;Age 0 to Age 60
+Male;25;Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 4,163;89;76;500.0%;60 Days;Age 0 to Age 50
+Male;25;Smoker;Health Critical Illness Extended Care III;Prudential | 保誠保險;9.0 / 10;8.8 / 10;9.2 / 10;25;USD 4,091;56;61;860.0%;90 Days;Age 0 to Age 49
+Male;25;Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 4,974;93;101;800.0%;90 Days;Age 0 to Age 50
+Male;25;Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 3,986;60;44;680.0%;90 Days;Age 0 to Age 60
+Male;25;Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 3,290;71;117;500.0%;60 Days;Age 0 to Age 50
+Male;25;Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 4,227;71;127;700.0%;60 Days;Age 0 to Age 50
+Male;25;Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 3,521;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;25;Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 3,407;60;63;500.0%;90 Days;Age 0 to Age 60
+Male;25;Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 3,952;69;83;500.0%;60 Days;Age 0 to Age 50
+Male;25;Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 4,436;63;62;1100.0%;90 Days;Age 0 to Age 50
+Male;25;Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 5,042;60;30;700.0%;90 Days;Age 0 to Age 60
+Male;25;Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 4,134;56;71;900.0%;90 Days;Age 0 to Age 49
+Male;25;Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 3,860;64;62;950.0%;90 Days;Age 0 to Age 50
+Male;25;Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 3,459;65;56;500.0%;60 Days;Age 0 to Age 55
+Male;25;Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 3,540;88;88;420.0%;90 Days;Age 0 to Age 50
+Male;25;Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 3,662;60;44;500.0%;90 Days;Age 0 to Age 60
+Male;25;Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 3,641;63;62;900.0%;90 Days;Age 0 to Age 50
+Male;25;Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 3,763;62;54;900.0%;60 Days;Age 0 to Age 50
+Male;25;Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 4,817;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;25;Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 3,656;62;54;500.0%;60 Days;Age 0 to Age 50
+Male;25;Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 4,760;62;45;500.0%;60 Days;Age 0 to Age 45
+Male;25;Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 3,624;53;3;500.0%;90 Days;Age 0 to Age 55
+Male;25;Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 4,446;55;39;600.0%;90 Days;Age 0 to Age 55
+Male;25;Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 3,755;55;39;420.0%;90 Days;Age 0 to Age 55
+Male;30;Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 6,534;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;30;Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 7,035;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;30;Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 7,708;93;101;900.0%;90 Days;Age 0 to Age 50
+Male;30;Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 4,815;71;117;700.0%;60 Days;Age 0 to Age 50
+Male;30;Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 5,757;63;75;1300.0%;60 Days;Age 0 to Age 60
+Male;30;Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 4,404;69;69;Not specified;60 Days;Age 0 to Age 55
+Male;30;Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 4,628;69;69;720.0%;60 Days;Age 0 to Age 55
+Male;30;Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 4,853;62;65;1152.0%;90 Days;Age 0 to Age 55
+Male;30;Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 4,455;62;65;1121.0%;90 Days;Age 0 to Age 55
+Male;30;Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 4,302;68;50;740.0%;60 Days;Age 0 to Age 55
+Male;30;Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 4,901;60;44;900.0%;90 Days;Age 0 to Age 60
+Male;30;Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 4,503;63;75;1000.0%;60 Days;Age 0 to Age 60
+Male;30;Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 4,664;89;76;500.0%;60 Days;Age 0 to Age 50
+Male;30;Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 5,814;93;101;800.0%;90 Days;Age 0 to Age 50
+Male;30;Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 4,712;60;44;680.0%;90 Days;Age 0 to Age 60
+Male;30;Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 4,038;71;117;500.0%;60 Days;Age 0 to Age 50
+Male;30;Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 5,065;71;127;700.0%;60 Days;Age 0 to Age 50
+Male;30;Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 4,161;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;30;Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 4,123;60;63;500.0%;90 Days;Age 0 to Age 60
+Male;30;Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 4,735;69;83;500.0%;60 Days;Age 0 to Age 50
+Male;30;Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 5,181;63;62;1100.0%;90 Days;Age 0 to Age 50
+Male;30;Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 5,981;60;30;700.0%;90 Days;Age 0 to Age 60
+Male;30;Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 4,980;56;71;900.0%;90 Days;Age 0 to Age 49
+Male;30;Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 4,422;64;62;950.0%;90 Days;Age 0 to Age 50
+Male;30;Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 4,126;65;56;500.0%;60 Days;Age 0 to Age 55
+Male;30;Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 4,278;88;88;420.0%;90 Days;Age 0 to Age 50
+Male;30;Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 4,328;60;44;500.0%;90 Days;Age 0 to Age 60
+Male;30;Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 4,272;63;62;900.0%;90 Days;Age 0 to Age 50
+Male;30;Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 5,862;62;54;900.0%;60 Days;Age 0 to Age 50
+Male;30;Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 5,286;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;30;Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 5,699;62;54;500.0%;60 Days;Age 0 to Age 50
+Male;30;Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 5,330;62;45;500.0%;60 Days;Age 0 to Age 45
+Male;30;Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 4,194;53;3;500.0%;90 Days;Age 0 to Age 55
+Male;30;Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 3,818;55;39;600.0%;90 Days;Age 0 to Age 55
+Male;30;Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 4,341;55;39;420.0%;90 Days;Age 0 to Age 55
+Male;35;Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 7,658;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;35;Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 8,274;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;35;Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 9,079;93;101;900.0%;90 Days;Age 0 to Age 50
+Male;35;Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 5,778;71;117;700.0%;60 Days;Age 0 to Age 50
+Male;35;Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 6,834;63;75;1300.0%;60 Days;Age 0 to Age 60
+Male;35;Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 5,555;69;69;Not specified;60 Days;Age 0 to Age 55
+Male;35;Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 5,948;69;69;720.0%;60 Days;Age 0 to Age 55
+Male;35;Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 5,805;62;65;1152.0%;90 Days;Age 0 to Age 50
+Male;35;Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 5,331;62;65;1121.0%;90 Days;Age 0 to Age 50
+Male;35;Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 5,063;68;50;740.0%;60 Days;Age 0 to Age 55
+Male;35;Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 6,028;60;44;900.0%;90 Days;Age 0 to Age 60
+Male;35;Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 5,421;63;75;1000.0%;60 Days;Age 0 to Age 60
+Male;35;Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 5,579;89;76;500.0%;60 Days;Age 0 to Age 50
+Male;35;Smoker;Health Critical Illness Extended Care III;Prudential | 保誠保險;9.0 / 10;8.8 / 10;9.2 / 10;25;USD 5,909;56;61;860.0%;90 Days;Age 0 to Age 49
+Male;35;Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 6,793;93;101;800.0%;90 Days;Age 0 to Age 50
+Male;35;Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 5,582;60;44;680.0%;90 Days;Age 0 to Age 60
+Male;35;Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 4,803;71;117;500.0%;60 Days;Age 0 to Age 50
+Male;35;Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 5,878;71;127;700.0%;60 Days;Age 0 to Age 50
+Male;35;Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 5,166;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;35;Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 4,933;60;63;500.0%;90 Days;Age 0 to Age 60
+Male;35;Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 5,599;69;83;500.0%;60 Days;Age 0 to Age 50
+Male;35;Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 5,928;63;62;1100.0%;90 Days;Age 0 to Age 50
+Male;35;Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 6,925;60;30;700.0%;90 Days;Age 0 to Age 60
+Male;35;Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 6,168;56;71;900.0%;90 Days;Age 0 to Age 49
+Male;35;Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 5,115;64;62;950.0%;90 Days;Age 0 to Age 50
+Male;35;Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 4,956;65;56;500.0%;60 Days;Age 0 to Age 55
+Male;35;Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 5,206;88;88;420.0%;90 Days;Age 0 to Age 50
+Male;35;Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 5,138;60;44;500.0%;90 Days;Age 0 to Age 60
+Male;35;Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 5,064;63;62;900.0%;90 Days;Age 0 to Age 50
+Male;35;Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 5,541;62;54;900.0%;60 Days;Age 0 to Age 50
+Male;35;Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 6,036;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;35;Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 5,381;62;54;500.0%;60 Days;Age 0 to Age 50
+Male;35;Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 6,167;62;45;500.0%;60 Days;Age 0 to Age 45
+Male;35;Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 4,883;53;3;500.0%;90 Days;Age 0 to Age 55
+Male;35;Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 6,057;55;39;600.0%;90 Days;Age 0 to Age 55
+Male;35;Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 5,105;55;39;420.0%;90 Days;Age 0 to Age 55
+Male;40;Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 9,578;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;40;Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 10,385;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;40;Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 11,128;93;101;900.0%;90 Days;Age 0 to Age 50
+Male;40;Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 7,200;71;117;700.0%;60 Days;Age 0 to Age 50
+Male;40;Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 8,423;63;75;1300.0%;60 Days;Age 0 to Age 60
+Male;40;Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 7,001;69;69;Not specified;60 Days;Age 0 to Age 55
+Male;40;Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 7,637;69;69;720.0%;60 Days;Age 0 to Age 55
+Male;40;Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 7,236;62;65;1152.0%;90 Days;Age 0 to Age 55
+Male;40;Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 6,678;62;65;1121.0%;90 Days;Age 0 to Age 55
+Male;40;Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 7,149;68;50;740.0%;60 Days;Age 0 to Age 55
+Male;40;Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 7,513;60;44;900.0%;90 Days;Age 0 to Age 60
+Male;40;Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 6,759;63;75;1000.0%;60 Days;Age 0 to Age 60
+Male;40;Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 6,495;89;76;500.0%;60 Days;Age 0 to Age 50
+Male;40;Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 8,199;93;101;800.0%;90 Days;Age 0 to Age 50
+Male;40;Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 6,712;60;44;680.0%;90 Days;Age 0 to Age 60
+Male;40;Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 5,850;71;117;500.0%;60 Days;Age 0 to Age 50
+Male;40;Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 7,291;71;127;700.0%;60 Days;Age 0 to Age 50
+Male;40;Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 6,594;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;40;Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 6,013;60;63;500.0%;90 Days;Age 0 to Age 60
+Male;40;Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 6,945;69;83;500.0%;60 Days;Age 0 to Age 50
+Male;40;Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 7,325;63;62;1100.0%;90 Days;Age 0 to Age 50
+Male;40;Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 8,065;60;30;700.0%;90 Days;Age 0 to Age 60
+Male;40;Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 7,715;56;71;900.0%;90 Days;Age 0 to Age 49
+Male;40;Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 6,185;64;62;950.0%;90 Days;Age 0 to Age 50
+Male;40;Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 5,976;65;56;500.0%;60 Days;Age 0 to Age 55
+Male;40;Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 6,535;88;88;420.0%;90 Days;Age 0 to Age 50
+Male;40;Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 6,197;60;44;500.0%;90 Days;Age 0 to Age 60
+Male;40;Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 6,153;63;62;900.0%;90 Days;Age 0 to Age 50
+Male;40;Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 8,192;62;54;900.0%;60 Days;Age 0 to Age 50
+Male;40;Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 7,491;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;40;Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 7,940;62;54;500.0%;60 Days;Age 0 to Age 50
+Male;40;Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 7,556;62;45;500.0%;60 Days;Age 0 to Age 45
+Male;40;Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 6,119;53;3;500.0%;90 Days;Age 0 to Age 55
+Male;40;Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 5,403;55;39;600.0%;90 Days;Age 0 to Age 55
+Male;40;Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 6,201;55;39;420.0%;90 Days;Age 0 to Age 55
+Male;45;Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 11,780;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;45;Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 12,816;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;45;Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 13,666;93;101;900.0%;90 Days;Age 0 to Age 50
+Male;45;Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 9,233;71;117;700.0%;60 Days;Age 0 to Age 50
+Male;45;Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 10,530;63;75;1300.0%;60 Days;Age 0 to Age 60
+Male;45;Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 9,495;69;69;Not specified;60 Days;Age 0 to Age 55
+Male;45;Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 10,685;69;69;720.0%;60 Days;Age 0 to Age 55
+Male;45;Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 8,783;62;65;1152.0%;90 Days;Age 0 to Age 50
+Male;45;Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 8,144;62;65;1121.0%;90 Days;Age 0 to Age 50
+Male;45;Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 9,692;68;50;740.0%;60 Days;Age 0 to Age 55
+Male;45;Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 9,562;60;44;900.0%;90 Days;Age 0 to Age 60
+Male;45;Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 8,585;63;75;1000.0%;60 Days;Age 0 to Age 60
+Male;45;Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 8,126;89;76;500.0%;60 Days;Age 0 to Age 50
+Male;45;Smoker;Health Critical Illness Extended Care III;Prudential | 保誠保險;9.0 / 10;8.8 / 10;9.2 / 10;25;USD 9,239;56;61;860.0%;90 Days;Age 0 to Age 49
+Male;45;Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 9,978;93;101;800.0%;90 Days;Age 0 to Age 50
+Male;45;Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 8,663;60;44;680.0%;90 Days;Age 0 to Age 60
+Male;45;Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 7,544;71;117;500.0%;60 Days;Age 0 to Age 50
+Male;45;Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 9,217;71;127;700.0%;60 Days;Age 0 to Age 50
+Male;45;Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 8,519;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;45;Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 7,840;60;63;500.0%;90 Days;Age 0 to Age 60
+Male;45;Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 8,821;69;83;500.0%;60 Days;Age 0 to Age 50
+Male;45;Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 8,982;63;62;1100.0%;90 Days;Age 0 to Age 50
+Male;45;Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 9,395;60;30;700.0%;90 Days;Age 0 to Age 60
+Male;45;Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 9,825;56;71;900.0%;90 Days;Age 0 to Age 49
+Male;45;Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 7,628;64;62;950.0%;90 Days;Age 0 to Age 50
+Male;45;Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 7,501;65;56;500.0%;60 Days;Age 0 to Age 55
+Male;45;Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 7,732;88;88;420.0%;90 Days;Age 0 to Age 50
+Male;45;Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 7,999;60;44;500.0%;90 Days;Age 0 to Age 60
+Male;45;Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 7,628;63;62;900.0%;90 Days;Age 0 to Age 50
+Male;45;Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 7,669;62;54;900.0%;60 Days;Age 0 to Age 50
+Male;45;Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 9,548;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;45;Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 7,462;62;54;500.0%;60 Days;Age 0 to Age 50
+Male;45;Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 9,164;62;45;500.0%;60 Days;Age 0 to Age 45
+Male;45;Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 7,910;53;3;500.0%;90 Days;Age 0 to Age 55
+Male;45;Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 8,885;55;39;600.0%;90 Days;Age 0 to Age 55
+Male;45;Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 7,499;55;39;420.0%;90 Days;Age 0 to Age 55
+Female;0;Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 2,466;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;0;Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 2,528;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;0;Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 2,910;93;101;900.0%;90 Days;Age 0 to Age 50
+Female;0;Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 1,632;71;117;700.0%;60 Days;Age 0 to Age 50
+Female;0;Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 2,118;63;75;1300.0%;60 Days;Age 0 to Age 60
+Female;0;Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 1,514;69;69;Not specified;60 Days;Age 0 to Age 55
+Female;0;Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 1,514;69;69;720.0%;60 Days;Age 0 to Age 55
+Female;0;Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 1,976;62;65;1152.0%;90 Days;Age 0 to Age 55
+Female;0;Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 1,811;62;65;1121.0%;90 Days;Age 0 to Age 55
+Female;0;Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 1,793;68;50;740.0%;60 Days;Age 0 to Age 55
+Female;0;Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 1,739;60;44;900.0%;90 Days;Age 0 to Age 60
+Female;0;Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 1,806;63;75;1000.0%;60 Days;Age 0 to Age 60
+Female;0;Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 0;89;76;500.0%;60 Days;Age 0 to Age 50
+Female;0;Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 2,088;93;101;800.0%;90 Days;Age 0 to Age 50
+Female;0;Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 1,843;60;44;680.0%;90 Days;Age 0 to Age 60
+Female;0;Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 1,448;71;117;500.0%;60 Days;Age 0 to Age 50
+Female;0;Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 1,671;71;127;700.0%;60 Days;Age 0 to Age 50
+Female;0;Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 1,631;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;0;Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 1,451;60;63;500.0%;90 Days;Age 0 to Age 60
+Female;0;Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 1,587;69;83;500.0%;60 Days;Age 0 to Age 50
+Female;0;Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 1,853;60;30;700.0%;90 Days;Age 0 to Age 60
+Female;0;Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 1,964;63;62;1100.0%;90 Days;Age 0 to Age 50
+Female;0;Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 1,907;64;62;950.0%;90 Days;Age 0 to Age 50
+Female;0;Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 1,423;65;56;500.0%;60 Days;Age 0 to Age 55
+Female;0;Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 1,705;60;44;500.0%;90 Days;Age 0 to Age 60
+Female;0;Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 1,688;63;62;900.0%;90 Days;Age 0 to Age 50
+Female;0;Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;20;USD 0;62;54;900.0%;60 Days;Age 0 to Age 50
+Female;0;Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 2,060;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;0;Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;20;USD 0;62;54;500.0%;60 Days;Age 0 to Age 50
+Female;0;Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 1,946;62;45;500.0%;60 Days;Age 0 to Age 45
+Female;0;Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 1,376;53;3;500.0%;90 Days;Age 0 to Age 55
+Female;0;Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 1,785;55;39;600.0%;90 Days;Age 0 to Age 55
+Female;0;Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 1,664;55;39;420.0%;90 Days;Age 0 to Age 55
+Female;10;Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 3,113;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;10;Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 3,248;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;10;Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 3,586;93;101;900.0%;90 Days;Age 0 to Age 50
+Female;10;Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 2,163;71;117;700.0%;60 Days;Age 0 to Age 50
+Female;10;Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 2,747;63;75;1300.0%;60 Days;Age 0 to Age 60
+Female;10;Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 1,919;69;69;Not specified;60 Days;Age 0 to Age 55
+Female;10;Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 1,871;69;69;720.0%;60 Days;Age 0 to Age 55
+Female;10;Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 2,490;62;65;1152.0%;90 Days;Age 0 to Age 55
+Female;10;Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 2,277;62;65;1121.0%;90 Days;Age 0 to Age 55
+Female;10;Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 2,102;68;50;740.0%;60 Days;Age 0 to Age 55
+Female;10;Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 2,303;60;44;900.0%;90 Days;Age 0 to Age 60
+Female;10;Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 2,292;63;75;1000.0%;60 Days;Age 0 to Age 60
+Female;10;Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 0;89;76;500.0%;60 Days;Age 0 to Age 50
+Female;10;Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 2,649;93;101;800.0%;90 Days;Age 0 to Age 50
+Female;10;Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 2,366;60;44;680.0%;90 Days;Age 0 to Age 60
+Female;10;Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 1,889;71;117;500.0%;60 Days;Age 0 to Age 50
+Female;10;Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 2,107;71;127;700.0%;60 Days;Age 0 to Age 50
+Female;10;Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 2,106;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;10;Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 1,933;60;63;500.0%;90 Days;Age 0 to Age 60
+Female;10;Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 2,028;69;83;500.0%;60 Days;Age 0 to Age 50
+Female;10;Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 2,424;63;62;1100.0%;90 Days;Age 0 to Age 50
+Female;10;Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 2,516;60;30;700.0%;90 Days;Age 0 to Age 60
+Female;10;Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 2,322;64;62;950.0%;90 Days;Age 0 to Age 50
+Female;10;Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 1,798;65;56;500.0%;60 Days;Age 0 to Age 55
+Female;10;Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 2,180;60;44;500.0%;90 Days;Age 0 to Age 60
+Female;10;Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 2,055;63;62;900.0%;90 Days;Age 0 to Age 50
+Female;10;Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;20;USD 0;62;54;900.0%;60 Days;Age 0 to Age 50
+Female;10;Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 2,615;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;10;Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;20;USD 0;62;54;500.0%;60 Days;Age 0 to Age 50
+Female;10;Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 2,441;62;45;500.0%;60 Days;Age 0 to Age 45
+Female;10;Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 1,794;53;3;500.0%;90 Days;Age 0 to Age 55
+Female;10;Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 2,304;55;39;600.0%;90 Days;Age 0 to Age 55
+Female;10;Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 2,147;55;39;420.0%;90 Days;Age 0 to Age 55
+Female;18;Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 4,188;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;18;Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 4,427;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;18;Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 4,893;93;101;900.0%;90 Days;Age 0 to Age 50
+Female;18;Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 3,263;71;117;700.0%;60 Days;Age 0 to Age 50
+Female;18;Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 3,920;63;75;1300.0%;60 Days;Age 0 to Age 60
+Female;18;Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 2,981;69;69;Not specified;60 Days;Age 0 to Age 55
+Female;18;Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 2,421;69;69;720.0%;60 Days;Age 0 to Age 55
+Female;18;Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 3,218;62;65;1152.0%;90 Days;Age 0 to Age 55
+Female;18;Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 2,936;62;65;1121.0%;90 Days;Age 0 to Age 55
+Female;18;Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 2,777;68;50;740.0%;60 Days;Age 0 to Age 55
+Female;18;Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 3,331;60;44;900.0%;90 Days;Age 0 to Age 60
+Female;18;Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 3,213;63;75;1000.0%;60 Days;Age 0 to Age 60
+Female;18;Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 3,617;89;76;500.0%;60 Days;Age 0 to Age 50
+Female;18;Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 3,544;93;101;800.0%;90 Days;Age 0 to Age 50
+Female;18;Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 3,449;60;44;680.0%;90 Days;Age 0 to Age 60
+Female;18;Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 2,765;71;117;500.0%;60 Days;Age 0 to Age 50
+Female;18;Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 3,361;71;127;700.0%;60 Days;Age 0 to Age 50
+Female;18;Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 2,907;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;18;Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 2,954;60;63;500.0%;90 Days;Age 0 to Age 60
+Female;18;Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 3,220;69;83;500.0%;60 Days;Age 0 to Age 50
+Female;18;Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 3,297;63;62;1100.0%;90 Days;Age 0 to Age 50
+Female;18;Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 3,887;60;30;700.0%;90 Days;Age 0 to Age 60
+Female;18;Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 3,351;56;71;900.0%;90 Days;Age 0 to Age 49
+Female;18;Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 3,114;64;62;950.0%;90 Days;Age 0 to Age 50
+Female;18;Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 2,439;65;56;500.0%;60 Days;Age 0 to Age 55
+Female;18;Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 3,024;88;88;420.0%;90 Days;Age 0 to Age 50
+Female;18;Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 3,140;60;44;500.0%;90 Days;Age 0 to Age 60
+Female;18;Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 2,778;63;62;900.0%;90 Days;Age 0 to Age 50
+Female;18;Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 3,611;62;54;900.0%;60 Days;Age 0 to Age 50
+Female;18;Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 3,431;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;18;Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 3,471;62;54;500.0%;60 Days;Age 0 to Age 50
+Female;18;Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 3,542;62;45;500.0%;60 Days;Age 0 to Age 45
+Female;18;Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 2,619;53;3;500.0%;90 Days;Age 0 to Age 55
+Female;18;Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 3,546;55;39;600.0%;90 Days;Age 0 to Age 55
+Female;18;Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 3,093;55;39;420.0%;90 Days;Age 0 to Age 55
+Female;25;Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 5,303;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;25;Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 5,670;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;25;Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 6,019;93;101;900.0%;90 Days;Age 0 to Age 50
+Female;25;Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 4,176;71;117;700.0%;60 Days;Age 0 to Age 50
+Female;25;Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 5,030;63;75;1300.0%;60 Days;Age 0 to Age 60
+Female;25;Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 3,611;69;69;Not specified;60 Days;Age 0 to Age 55
+Female;25;Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 3,701;69;69;720.0%;60 Days;Age 0 to Age 55
+Female;25;Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 3,978;62;65;1152.0%;90 Days;Age 0 to Age 50
+Female;25;Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 3,645;62;65;1121.0%;90 Days;Age 0 to Age 50
+Female;25;Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 3,425;68;50;740.0%;60 Days;Age 0 to Age 55
+Female;25;Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 4,274;60;44;900.0%;90 Days;Age 0 to Age 60
+Female;25;Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 4,157;63;75;1000.0%;60 Days;Age 0 to Age 60
+Female;25;Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 4,394;89;76;500.0%;60 Days;Age 0 to Age 50
+Female;25;Smoker;Health Critical Illness Extended Care III;Prudential | 保誠保險;9.0 / 10;8.8 / 10;9.2 / 10;25;USD 4,421;56;61;860.0%;90 Days;Age 0 to Age 49
+Female;25;Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 4,396;93;101;800.0%;90 Days;Age 0 to Age 50
+Female;25;Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 4,405;60;44;680.0%;90 Days;Age 0 to Age 60
+Female;25;Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 3,453;71;117;500.0%;60 Days;Age 0 to Age 50
+Female;25;Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 4,227;71;127;700.0%;60 Days;Age 0 to Age 50
+Female;25;Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 3,834;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;25;Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 3,635;60;63;500.0%;90 Days;Age 0 to Age 60
+Female;25;Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 4,084;69;83;500.0%;60 Days;Age 0 to Age 50
+Female;25;Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 4,257;63;62;1100.0%;90 Days;Age 0 to Age 50
+Female;25;Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 5,159;60;30;700.0%;90 Days;Age 0 to Age 60
+Female;25;Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 4,445;56;71;900.0%;90 Days;Age 0 to Age 49
+Female;25;Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 3,945;64;62;950.0%;90 Days;Age 0 to Age 50
+Female;25;Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 3,270;65;56;500.0%;60 Days;Age 0 to Age 55
+Female;25;Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 3,885;88;88;420.0%;90 Days;Age 0 to Age 50
+Female;25;Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 4,010;60;44;500.0%;90 Days;Age 0 to Age 60
+Female;25;Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 3,587;63;62;900.0%;90 Days;Age 0 to Age 50
+Female;25;Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 3,656;62;54;900.0%;60 Days;Age 0 to Age 50
+Female;25;Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 4,358;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;25;Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 3,541;62;54;500.0%;60 Days;Age 0 to Age 50
+Female;25;Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 4,190;62;45;500.0%;60 Days;Age 0 to Age 45
+Female;25;Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 3,557;53;3;500.0%;90 Days;Age 0 to Age 55
+Female;25;Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 4,368;55;39;600.0%;90 Days;Age 0 to Age 55
+Female;25;Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 3,839;55;39;420.0%;90 Days;Age 0 to Age 55
+Female;30;Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 6,239;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;30;Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 6,717;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;30;Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 7,011;93;101;900.0%;90 Days;Age 0 to Age 50
+Female;30;Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 5,097;71;117;700.0%;60 Days;Age 0 to Age 50
+Female;30;Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 6,054;63;75;1300.0%;60 Days;Age 0 to Age 60
+Female;30;Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 4,191;69;69;Not specified;60 Days;Age 0 to Age 55
+Female;30;Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 4,404;69;69;720.0%;60 Days;Age 0 to Age 55
+Female;30;Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 4,647;62;65;1152.0%;90 Days;Age 0 to Age 55
+Female;30;Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 4,268;62;65;1121.0%;90 Days;Age 0 to Age 55
+Female;30;Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 3,941;68;50;740.0%;60 Days;Age 0 to Age 55
+Female;30;Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 5,086;60;44;900.0%;90 Days;Age 0 to Age 60
+Female;30;Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 4,902;63;75;1000.0%;60 Days;Age 0 to Age 60
+Female;30;Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 4,938;89;76;500.0%;60 Days;Age 0 to Age 50
+Female;30;Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 5,134;93;101;800.0%;90 Days;Age 0 to Age 50
+Female;30;Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 5,236;60;44;680.0%;90 Days;Age 0 to Age 60
+Female;30;Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 4,163;71;117;500.0%;60 Days;Age 0 to Age 50
+Female;30;Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 5,086;71;127;700.0%;60 Days;Age 0 to Age 50
+Female;30;Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 4,586;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;30;Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 4,295;60;63;500.0%;90 Days;Age 0 to Age 60
+Female;30;Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 4,987;69;83;500.0%;60 Days;Age 0 to Age 50
+Female;30;Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 4,992;63;62;1100.0%;90 Days;Age 0 to Age 50
+Female;30;Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 6,188;60;30;700.0%;90 Days;Age 0 to Age 60
+Female;30;Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 5,406;56;71;900.0%;90 Days;Age 0 to Age 49
+Female;30;Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 4,650;64;62;950.0%;90 Days;Age 0 to Age 50
+Female;30;Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 3,916;65;56;500.0%;60 Days;Age 0 to Age 55
+Female;30;Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 4,635;88;88;420.0%;90 Days;Age 0 to Age 50
+Female;30;Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 4,768;60;44;500.0%;90 Days;Age 0 to Age 60
+Female;30;Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 4,227;63;62;900.0%;90 Days;Age 0 to Age 50
+Female;30;Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 5,506;62;54;900.0%;60 Days;Age 0 to Age 50
+Female;30;Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 4,911;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;30;Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 5,275;62;54;500.0%;60 Days;Age 0 to Age 50
+Female;30;Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 4,650;62;45;500.0%;60 Days;Age 0 to Age 45
+Female;30;Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 4,128;53;3;500.0%;90 Days;Age 0 to Age 55
+Female;30;Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 3,788;55;39;600.0%;90 Days;Age 0 to Age 55
+Female;30;Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 4,391;55;39;420.0%;90 Days;Age 0 to Age 55
+Female;35;Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 7,200;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;35;Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 7,779;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;35;Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 8,148;93;101;900.0%;90 Days;Age 0 to Age 50
+Female;35;Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 6,417;71;117;700.0%;60 Days;Age 0 to Age 50
+Female;35;Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 7,041;63;75;1300.0%;60 Days;Age 0 to Age 60
+Female;35;Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 5,421;69;69;Not specified;60 Days;Age 0 to Age 55
+Female;35;Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 5,687;69;69;720.0%;60 Days;Age 0 to Age 55
+Female;35;Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 5,531;62;65;1152.0%;90 Days;Age 0 to Age 50
+Female;35;Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 5,079;62;65;1121.0%;90 Days;Age 0 to Age 50
+Female;35;Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 4,943;68;50;740.0%;60 Days;Age 0 to Age 55
+Female;35;Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 6,167;60;44;900.0%;90 Days;Age 0 to Age 60
+Female;35;Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 5,847;63;75;1000.0%;60 Days;Age 0 to Age 60
+Female;35;Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 6,033;89;76;500.0%;60 Days;Age 0 to Age 50
+Female;35;Smoker;Health Critical Illness Extended Care III;Prudential | 保誠保險;9.0 / 10;8.8 / 10;9.2 / 10;25;USD 6,234;56;61;860.0%;90 Days;Age 0 to Age 49
+Female;35;Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 5,944;93;101;800.0%;90 Days;Age 0 to Age 50
+Female;35;Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 6,184;60;44;680.0%;90 Days;Age 0 to Age 60
+Female;35;Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 5,063;71;117;500.0%;60 Days;Age 0 to Age 50
+Female;35;Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 6,157;71;127;700.0%;60 Days;Age 0 to Age 50
+Female;35;Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 5,610;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;35;Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 5,255;60;63;500.0%;90 Days;Age 0 to Age 60
+Female;35;Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 6,097;69;83;500.0%;60 Days;Age 0 to Age 50
+Female;35;Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 5,670;63;62;1100.0%;90 Days;Age 0 to Age 50
+Female;35;Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 7,244;60;30;700.0%;90 Days;Age 0 to Age 60
+Female;35;Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 6,507;56;71;900.0%;90 Days;Age 0 to Age 49
+Female;35;Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 5,465;64;62;950.0%;90 Days;Age 0 to Age 50
+Female;35;Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 4,792;65;56;500.0%;60 Days;Age 0 to Age 55
+Female;35;Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 5,559;88;88;420.0%;90 Days;Age 0 to Age 50
+Female;35;Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 5,678;60;44;500.0%;90 Days;Age 0 to Age 60
+Female;35;Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 4,968;63;62;900.0%;90 Days;Age 0 to Age 50
+Female;35;Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 5,240;62;54;900.0%;60 Days;Age 0 to Age 50
+Female;35;Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 5,814;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;35;Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 5,064;62;54;500.0%;60 Days;Age 0 to Age 50
+Female;35;Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 5,328;62;45;500.0%;60 Days;Age 0 to Age 45
+Female;35;Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 4,841;53;3;500.0%;90 Days;Age 0 to Age 55
+Female;35;Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 5,646;55;39;600.0%;90 Days;Age 0 to Age 55
+Female;35;Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 5,019;55;39;420.0%;90 Days;Age 0 to Age 55
+Female;40;Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 8,625;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;40;Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 9,351;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;40;Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 9,712;93;101;900.0%;90 Days;Age 0 to Age 50
+Female;40;Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 7,844;71;117;700.0%;60 Days;Age 0 to Age 50
+Female;40;Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 8,670;63;75;1300.0%;60 Days;Age 0 to Age 60
+Female;40;Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 6,665;69;69;Not specified;60 Days;Age 0 to Age 55
+Female;40;Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 7,338;69;69;720.0%;60 Days;Age 0 to Age 55
+Female;40;Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 6,783;62;65;1152.0%;90 Days;Age 0 to Age 55
+Female;40;Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 6,260;62;65;1121.0%;90 Days;Age 0 to Age 55
+Female;40;Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 6,822;68;50;740.0%;60 Days;Age 0 to Age 55
+Female;40;Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 7,480;60;44;900.0%;90 Days;Age 0 to Age 60
+Female;40;Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 6,945;63;75;1000.0%;60 Days;Age 0 to Age 60
+Female;40;Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 7,127;89;76;500.0%;60 Days;Age 0 to Age 50
+Female;40;Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 7,042;93;101;800.0%;90 Days;Age 0 to Age 50
+Female;40;Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 7,292;60;44;680.0%;90 Days;Age 0 to Age 60
+Female;40;Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 6,194;71;117;500.0%;60 Days;Age 0 to Age 50
+Female;40;Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 7,530;71;127;700.0%;60 Days;Age 0 to Age 50
+Female;40;Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 6,770;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;40;Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 6,386;60;63;500.0%;90 Days;Age 0 to Age 60
+Female;40;Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 7,455;69;83;500.0%;60 Days;Age 0 to Age 50
+Female;40;Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 6,810;63;62;1100.0%;90 Days;Age 0 to Age 50
+Female;40;Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 8,491;60;30;700.0%;90 Days;Age 0 to Age 60
+Female;40;Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 7,775;56;71;900.0%;90 Days;Age 0 to Age 49
+Female;40;Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 6,437;64;62;950.0%;90 Days;Age 0 to Age 50
+Female;40;Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 5,887;65;56;500.0%;60 Days;Age 0 to Age 55
+Female;40;Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 6,655;88;88;420.0%;90 Days;Age 0 to Age 50
+Female;40;Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 6,685;60;44;500.0%;90 Days;Age 0 to Age 60
+Female;40;Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 5,852;63;62;900.0%;90 Days;Age 0 to Age 50
+Female;40;Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 8,012;62;54;900.0%;60 Days;Age 0 to Age 50
+Female;40;Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 7,149;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;40;Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 7,675;62;54;500.0%;60 Days;Age 0 to Age 50
+Female;40;Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 6,203;62;45;500.0%;60 Days;Age 0 to Age 45
+Female;40;Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 6,047;53;3;500.0%;90 Days;Age 0 to Age 55
+Female;40;Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 5,102;55;39;600.0%;90 Days;Age 0 to Age 55
+Female;40;Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 6,083;55;39;420.0%;90 Days;Age 0 to Age 55
+Female;45;Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 10,163;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;45;Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 11,057;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;45;Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 11,340;93;101;900.0%;90 Days;Age 0 to Age 50
+Female;45;Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 9,483;71;117;700.0%;60 Days;Age 0 to Age 50
+Female;45;Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 10,464;63;75;1300.0%;60 Days;Age 0 to Age 60
+Female;45;Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 9,449;69;69;Not specified;60 Days;Age 0 to Age 55
+Female;45;Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 9,485;69;69;720.0%;60 Days;Age 0 to Age 55
+Female;45;Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 8,006;62;65;1152.0%;90 Days;Age 0 to Age 50
+Female;45;Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 7,424;62;65;1121.0%;90 Days;Age 0 to Age 50
+Female;45;Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 7,658;68;50;740.0%;60 Days;Age 0 to Age 55
+Female;45;Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 8,854;60;44;900.0%;90 Days;Age 0 to Age 60
+Female;45;Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 8,531;63;75;1000.0%;60 Days;Age 0 to Age 60
+Female;45;Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 8,508;89;76;500.0%;60 Days;Age 0 to Age 50
+Female;45;Smoker;Health Critical Illness Extended Care III;Prudential | 保誠保險;9.0 / 10;8.8 / 10;9.2 / 10;25;USD 8,550;56;61;860.0%;90 Days;Age 0 to Age 49
+Female;45;Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 8,238;93;101;800.0%;90 Days;Age 0 to Age 50
+Female;45;Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 8,509;60;44;680.0%;90 Days;Age 0 to Age 60
+Female;45;Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 7,355;71;117;500.0%;60 Days;Age 0 to Age 50
+Female;45;Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 9,106;71;127;700.0%;60 Days;Age 0 to Age 50
+Female;45;Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 8,078;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;45;Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 7,564;60;63;500.0%;90 Days;Age 0 to Age 60
+Female;45;Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 9,016;69;83;500.0%;60 Days;Age 0 to Age 50
+Female;45;Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 7,977;63;62;1100.0%;90 Days;Age 0 to Age 50
+Female;45;Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 9,766;60;30;700.0%;90 Days;Age 0 to Age 60
+Female;45;Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 9,153;56;71;900.0%;90 Days;Age 0 to Age 49
+Female;45;Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 7,605;64;62;950.0%;90 Days;Age 0 to Age 50
+Female;45;Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 7,080;65;56;500.0%;60 Days;Age 0 to Age 55
+Female;45;Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 7,732;88;88;420.0%;90 Days;Age 0 to Age 50
+Female;45;Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 7,796;60;44;500.0%;90 Days;Age 0 to Age 60
+Female;45;Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 6,914;63;62;900.0%;90 Days;Age 0 to Age 50
+Female;45;Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 7,373;62;54;900.0%;60 Days;Age 0 to Age 50
+Female;45;Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 8,568;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;45;Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 7,142;62;54;500.0%;60 Days;Age 0 to Age 50
+Female;45;Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 7,283;62;45;500.0%;60 Days;Age 0 to Age 45
+Female;45;Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 7,250;53;3;500.0%;90 Days;Age 0 to Age 55
+Female;45;Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 7,839;55;39;600.0%;90 Days;Age 0 to Age 55
+Female;45;Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 7,050;55;39;420.0%;90 Days;Age 0 to Age 55
+Male;0;Non Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 2,720;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;0;Non Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 2,787;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;0;Non Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 2,763;93;101;900.0%;90 Days;Age 0 to Age 50
+Male;0;Non Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 1,665;71;117;700.0%;60 Days;Age 0 to Age 50
+Male;0;Non Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 2,295;63;75;1300.0%;60 Days;Age 0 to Age 60
+Male;0;Non Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 1,514;69;69;Not specified;60 Days;Age 0 to Age 55
+Male;0;Non Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 1,514;69;69;720.0%;60 Days;Age 0 to Age 55
+Male;0;Non Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 2,174;62;65;1152.0%;90 Days;Age 0 to Age 55
+Male;0;Non Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 1,992;62;65;1121.0%;90 Days;Age 0 to Age 55
+Male;0;Non Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 1,904;68;50;740.0%;60 Days;Age 0 to Age 55
+Male;0;Non Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 1,726;60;44;900.0%;90 Days;Age 0 to Age 60
+Male;0;Non Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 1,775;63;75;1000.0%;60 Days;Age 0 to Age 60
+Male;0;Non Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 2,046;89;76;500.0%;60 Days;Age 0 to Age 50
+Male;0;Non Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 2,145;93;101;800.0%;90 Days;Age 0 to Age 50
+Male;0;Non Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 1,793;60;44;680.0%;90 Days;Age 0 to Age 60
+Male;0;Non Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 1,500;71;117;500.0%;60 Days;Age 0 to Age 50
+Male;0;Non Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 1,671;71;127;700.0%;60 Days;Age 0 to Age 50
+Male;0;Non Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 1,602;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;0;Non Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 1,504;60;63;500.0%;90 Days;Age 0 to Age 60
+Male;0;Non Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 1,671;69;83;500.0%;60 Days;Age 0 to Age 50
+Male;0;Non Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 2,041;60;30;700.0%;90 Days;Age 0 to Age 60
+Male;0;Non Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 2,061;63;62;1100.0%;90 Days;Age 0 to Age 50
+Male;0;Non Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 1,916;64;62;950.0%;90 Days;Age 0 to Age 50
+Male;0;Non Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 1,465;65;56;500.0%;60 Days;Age 0 to Age 55
+Male;0;Non Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 1,667;60;44;500.0%;90 Days;Age 0 to Age 60
+Male;0;Non Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 1,742;63;62;900.0%;90 Days;Age 0 to Age 50
+Male;0;Non Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;20;USD 1,820;62;54;900.0%;60 Days;Age 0 to Age 50
+Male;0;Non Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 2,123;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;0;Non Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;20;USD 1,729;62;54;500.0%;60 Days;Age 0 to Age 50
+Male;0;Non Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 2,096;62;45;500.0%;60 Days;Age 0 to Age 45
+Male;0;Non Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 1,394;53;3;500.0%;90 Days;Age 0 to Age 55
+Male;0;Non Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 1,868;55;39;600.0%;90 Days;Age 0 to Age 55
+Male;0;Non Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 1,683;55;39;420.0%;90 Days;Age 0 to Age 55
+Male;10;Non Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 3,455;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;10;Non Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 3,604;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;10;Non Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 3,402;93;101;900.0%;90 Days;Age 0 to Age 50
+Male;10;Non Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 2,168;71;117;700.0%;60 Days;Age 0 to Age 50
+Male;10;Non Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 2,885;63;75;1300.0%;60 Days;Age 0 to Age 60
+Male;10;Non Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 1,871;69;69;Not specified;60 Days;Age 0 to Age 55
+Male;10;Non Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 1,919;69;69;720.0%;60 Days;Age 0 to Age 55
+Male;10;Non Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 2,766;62;65;1152.0%;90 Days;Age 0 to Age 55
+Male;10;Non Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 2,531;62;65;1121.0%;90 Days;Age 0 to Age 55
+Male;10;Non Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 2,171;68;50;740.0%;60 Days;Age 0 to Age 55
+Male;10;Non Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 2,224;60;44;900.0%;90 Days;Age 0 to Age 60
+Male;10;Non Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 2,223;63;75;1000.0%;60 Days;Age 0 to Age 60
+Male;10;Non Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 2,448;89;76;500.0%;60 Days;Age 0 to Age 50
+Male;10;Non Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 2,719;93;101;800.0%;90 Days;Age 0 to Age 50
+Male;10;Non Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 2,294;60;44;680.0%;90 Days;Age 0 to Age 60
+Male;10;Non Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 1,904;71;117;500.0%;60 Days;Age 0 to Age 50
+Male;10;Non Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 2,185;71;127;700.0%;60 Days;Age 0 to Age 50
+Male;10;Non Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 2,043;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;10;Non Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 1,943;60;63;500.0%;90 Days;Age 0 to Age 60
+Male;10;Non Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 2,082;69;83;500.0%;60 Days;Age 0 to Age 50
+Male;10;Non Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 2,498;63;62;1100.0%;90 Days;Age 0 to Age 50
+Male;10;Non Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 2,705;60;30;700.0%;90 Days;Age 0 to Age 60
+Male;10;Non Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 2,286;64;62;950.0%;90 Days;Age 0 to Age 50
+Male;10;Non Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 1,891;65;56;500.0%;60 Days;Age 0 to Age 55
+Male;10;Non Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 2,123;60;44;500.0%;90 Days;Age 0 to Age 60
+Male;10;Non Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 2,078;63;62;900.0%;90 Days;Age 0 to Age 50
+Male;10;Non Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;20;USD 2,363;62;54;900.0%;60 Days;Age 0 to Age 50
+Male;10;Non Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 2,735;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;10;Non Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;20;USD 2,255;62;54;500.0%;60 Days;Age 0 to Age 50
+Male;10;Non Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 2,631;62;45;500.0%;60 Days;Age 0 to Age 45
+Male;10;Non Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 1,854;53;3;500.0%;90 Days;Age 0 to Age 55
+Male;10;Non Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 2,340;55;39;600.0%;90 Days;Age 0 to Age 55
+Male;10;Non Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 2,157;55;39;420.0%;90 Days;Age 0 to Age 55
+Male;18;Non Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 4,076;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;18;Non Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 4,311;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;18;Non Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 4,140;93;101;900.0%;90 Days;Age 0 to Age 50
+Male;18;Non Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 2,649;71;117;700.0%;60 Days;Age 0 to Age 50
+Male;18;Non Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 3,480;63;75;1300.0%;60 Days;Age 0 to Age 60
+Male;18;Non Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 2,316;69;69;Not specified;60 Days;Age 0 to Age 55
+Male;18;Non Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 2,316;69;69;720.0%;60 Days;Age 0 to Age 55
+Male;18;Non Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 3,222;62;65;1152.0%;90 Days;Age 0 to Age 55
+Male;18;Non Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 2,940;62;65;1121.0%;90 Days;Age 0 to Age 55
+Male;18;Non Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 2,586;68;50;740.0%;60 Days;Age 0 to Age 55
+Male;18;Non Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 2,773;60;44;900.0%;90 Days;Age 0 to Age 60
+Male;18;Non Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 2,678;63;75;1000.0%;60 Days;Age 0 to Age 60
+Male;18;Non Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 2,894;89;76;500.0%;60 Days;Age 0 to Age 50
+Male;18;Non Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 3,390;93;101;800.0%;90 Days;Age 0 to Age 50
+Male;18;Non Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 2,768;60;44;680.0%;90 Days;Age 0 to Age 60
+Male;18;Non Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 2,331;71;117;500.0%;60 Days;Age 0 to Age 50
+Male;18;Non Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 2,671;71;127;700.0%;60 Days;Age 0 to Age 50
+Male;18;Non Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 2,492;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;18;Non Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 2,422;60;63;500.0%;90 Days;Age 0 to Age 60
+Male;18;Non Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 2,509;69;83;500.0%;60 Days;Age 0 to Age 50
+Male;18;Non Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 3,089;63;62;1100.0%;90 Days;Age 0 to Age 50
+Male;18;Non Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 3,305;60;30;700.0%;90 Days;Age 0 to Age 60
+Male;18;Non Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 2,909;56;71;900.0%;90 Days;Age 0 to Age 49
+Male;18;Non Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 2,783;64;62;950.0%;90 Days;Age 0 to Age 50
+Male;18;Non Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 2,373;65;56;500.0%;60 Days;Age 0 to Age 55
+Male;18;Non Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 2,589;88;88;420.0%;90 Days;Age 0 to Age 50
+Male;18;Non Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 2,573;60;44;500.0%;90 Days;Age 0 to Age 60
+Male;18;Non Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 2,558;63;62;900.0%;90 Days;Age 0 to Age 50
+Male;18;Non Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 2,994;62;54;900.0%;60 Days;Age 0 to Age 50
+Male;18;Non Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 3,273;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;18;Non Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 2,888;62;54;500.0%;60 Days;Age 0 to Age 50
+Male;18;Non Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 3,240;62;45;500.0%;60 Days;Age 0 to Age 45
+Male;18;Non Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 2,318;53;3;500.0%;90 Days;Age 0 to Age 55
+Male;18;Non Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 2,306;55;39;600.0%;90 Days;Age 0 to Age 55
+Male;18;Non Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 2,642;55;39;420.0%;90 Days;Age 0 to Age 55
+Male;25;Non Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 4,754;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;25;Non Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 5,088;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;25;Non Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 5,013;93;101;900.0%;90 Days;Age 0 to Age 50
+Male;25;Non Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 3,066;71;117;700.0%;60 Days;Age 0 to Age 50
+Male;25;Non Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 4,086;63;75;1300.0%;60 Days;Age 0 to Age 60
+Male;25;Non Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 2,862;69;69;Not specified;60 Days;Age 0 to Age 55
+Male;25;Non Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 2,787;69;69;720.0%;60 Days;Age 0 to Age 55
+Male;25;Non Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 3,734;62;65;1152.0%;90 Days;Age 0 to Age 50
+Male;25;Non Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 3,420;62;65;1121.0%;90 Days;Age 0 to Age 50
+Male;25;Non Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 3,006;68;50;740.0%;60 Days;Age 0 to Age 55
+Male;25;Non Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 3,277;60;44;900.0%;90 Days;Age 0 to Age 60
+Male;25;Non Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 3,147;63;75;1000.0%;60 Days;Age 0 to Age 60
+Male;25;Non Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 3,471;89;76;500.0%;60 Days;Age 0 to Age 50
+Male;25;Non Smoker;Health Critical Illness Extended Care III;Prudential | 保誠保險;9.0 / 10;8.8 / 10;9.2 / 10;25;USD 3,557;56;61;860.0%;90 Days;Age 0 to Age 49
+Male;25;Non Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 4,162;93;101;800.0%;90 Days;Age 0 to Age 50
+Male;25;Non Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 3,260;60;44;680.0%;90 Days;Age 0 to Age 60
+Male;25;Non Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 2,723;71;117;500.0%;60 Days;Age 0 to Age 50
+Male;25;Non Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 2,959;71;127;700.0%;60 Days;Age 0 to Age 50
+Male;25;Non Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 2,955;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;25;Non Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 2,818;60;63;500.0%;90 Days;Age 0 to Age 60
+Male;25;Non Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 2,887;69;83;500.0%;60 Days;Age 0 to Age 50
+Male;25;Non Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 3,737;63;62;1100.0%;90 Days;Age 0 to Age 50
+Male;25;Non Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 3,970;60;30;700.0%;90 Days;Age 0 to Age 60
+Male;25;Non Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 3,480;56;71;900.0%;90 Days;Age 0 to Age 49
+Male;25;Non Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 3,287;64;62;950.0%;90 Days;Age 0 to Age 50
+Male;25;Non Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 2,869;65;56;500.0%;60 Days;Age 0 to Age 55
+Male;25;Non Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 3,162;88;88;420.0%;90 Days;Age 0 to Age 50
+Male;25;Non Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 3,028;60;44;500.0%;90 Days;Age 0 to Age 60
+Male;25;Non Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 3,101;63;62;900.0%;90 Days;Age 0 to Age 50
+Male;25;Non Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 3,763;62;54;900.0%;60 Days;Age 0 to Age 50
+Male;25;Non Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 3,815;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;25;Non Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 3,656;62;54;500.0%;60 Days;Age 0 to Age 50
+Male;25;Non Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 3,840;62;45;500.0%;60 Days;Age 0 to Age 45
+Male;25;Non Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 2,880;53;3;500.0%;90 Days;Age 0 to Age 55
+Male;25;Non Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 3,453;55;39;600.0%;90 Days;Age 0 to Age 55
+Male;25;Non Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 3,215;55;39;420.0%;90 Days;Age 0 to Age 55
+Male;30;Non Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 5,367;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;30;Non Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 5,783;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;30;Non Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 5,791;93;101;900.0%;90 Days;Age 0 to Age 50
+Male;30;Non Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 3,612;71;117;700.0%;60 Days;Age 0 to Age 50
+Male;30;Non Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 4,706;63;75;1300.0%;60 Days;Age 0 to Age 60
+Male;30;Non Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 3,372;69;69;Not specified;60 Days;Age 0 to Age 55
+Male;30;Non Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 3,200;69;69;720.0%;60 Days;Age 0 to Age 55
+Male;30;Non Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 4,259;62;65;1152.0%;90 Days;Age 0 to Age 55
+Male;30;Non Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 3,912;62;65;1121.0%;90 Days;Age 0 to Age 55
+Male;30;Non Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 3,422;68;50;740.0%;60 Days;Age 0 to Age 55
+Male;30;Non Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 3,808;60;44;900.0%;90 Days;Age 0 to Age 60
+Male;30;Non Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 3,651;63;75;1000.0%;60 Days;Age 0 to Age 60
+Male;30;Non Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 3,938;89;76;500.0%;60 Days;Age 0 to Age 50
+Male;30;Non Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 4,828;93;101;800.0%;90 Days;Age 0 to Age 50
+Male;30;Non Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 3,757;60;44;680.0%;90 Days;Age 0 to Age 60
+Male;30;Non Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 3,183;71;117;500.0%;60 Days;Age 0 to Age 50
+Male;30;Non Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 3,486;71;127;700.0%;60 Days;Age 0 to Age 50
+Male;30;Non Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 3,449;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;30;Non Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 3,325;60;63;500.0%;90 Days;Age 0 to Age 60
+Male;30;Non Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 3,385;69;83;500.0%;60 Days;Age 0 to Age 50
+Male;30;Non Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 4,320;63;62;1100.0%;90 Days;Age 0 to Age 50
+Male;30;Non Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 4,637;60;30;700.0%;90 Days;Age 0 to Age 60
+Male;30;Non Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 3,975;56;71;900.0%;90 Days;Age 0 to Age 49
+Male;30;Non Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 3,543;64;62;950.0%;90 Days;Age 0 to Age 50
+Male;30;Non Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 3,387;65;56;500.0%;60 Days;Age 0 to Age 55
+Male;30;Non Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 3,673;88;88;420.0%;90 Days;Age 0 to Age 50
+Male;30;Non Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 3,490;60;44;500.0%;90 Days;Age 0 to Age 60
+Male;30;Non Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 3,597;63;62;900.0%;90 Days;Age 0 to Age 50
+Male;30;Non Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 4,548;62;54;900.0%;60 Days;Age 0 to Age 50
+Male;30;Non Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 4,212;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;30;Non Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 4,421;62;54;500.0%;60 Days;Age 0 to Age 50
+Male;30;Non Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 4,266;62;45;500.0%;60 Days;Age 0 to Age 45
+Male;30;Non Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 3,387;53;3;500.0%;90 Days;Age 0 to Age 55
+Male;30;Non Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 3,279;55;39;600.0%;90 Days;Age 0 to Age 55
+Male;30;Non Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 3,717;55;39;420.0%;90 Days;Age 0 to Age 55
+Male;40;Non Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 7,778;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;40;Non Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 8,381;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;40;Non Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 8,148;93;101;900.0%;90 Days;Age 0 to Age 50
+Male;40;Non Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 5,274;71;117;700.0%;60 Days;Age 0 to Age 50
+Male;40;Non Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 6,545;63;75;1300.0%;60 Days;Age 0 to Age 60
+Male;40;Non Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 4,982;69;69;Not specified;60 Days;Age 0 to Age 55
+Male;40;Non Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 4,805;69;69;720.0%;60 Days;Age 0 to Age 55
+Male;40;Non Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 6,083;62;65;1152.0%;90 Days;Age 0 to Age 55
+Male;40;Non Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 5,613;62;65;1121.0%;90 Days;Age 0 to Age 55
+Male;40;Non Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 4,925;68;50;740.0%;60 Days;Age 0 to Age 55
+Male;40;Non Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 5,411;60;44;900.0%;90 Days;Age 0 to Age 60
+Male;40;Non Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 5,292;63;75;1000.0%;60 Days;Age 0 to Age 60
+Male;40;Non Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 5,295;89;76;500.0%;60 Days;Age 0 to Age 50
+Male;40;Non Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 6,667;93;101;800.0%;90 Days;Age 0 to Age 50
+Male;40;Non Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 5,035;60;44;680.0%;90 Days;Age 0 to Age 60
+Male;40;Non Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 4,466;71;117;500.0%;60 Days;Age 0 to Age 50
+Male;40;Non Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 5,076;71;127;700.0%;60 Days;Age 0 to Age 50
+Male;40;Non Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 5,027;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;40;Non Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 4,538;60;63;500.0%;90 Days;Age 0 to Age 60
+Male;40;Non Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 5,026;69;83;500.0%;60 Days;Age 0 to Age 50
+Male;40;Non Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 5,990;63;62;1100.0%;90 Days;Age 0 to Age 50
+Male;40;Non Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 6,191;60;30;700.0%;90 Days;Age 0 to Age 60
+Male;40;Non Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 5,676;56;71;900.0%;90 Days;Age 0 to Age 49
+Male;40;Non Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 4,985;64;62;950.0%;90 Days;Age 0 to Age 50
+Male;40;Non Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 4,722;65;56;500.0%;60 Days;Age 0 to Age 55
+Male;40;Non Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 4,941;88;88;420.0%;90 Days;Age 0 to Age 50
+Male;40;Non Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 4,678;60;44;500.0%;90 Days;Age 0 to Age 60
+Male;40;Non Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 5,192;63;62;900.0%;90 Days;Age 0 to Age 50
+Male;40;Non Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 6,599;62;54;900.0%;60 Days;Age 0 to Age 50
+Male;40;Non Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 5,696;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;40;Non Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 6,416;62;54;500.0%;60 Days;Age 0 to Age 50
+Male;40;Non Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 5,574;62;45;500.0%;60 Days;Age 0 to Age 45
+Male;40;Non Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 4,650;53;3;500.0%;90 Days;Age 0 to Age 55
+Male;40;Non Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 4,478;55;39;600.0%;90 Days;Age 0 to Age 55
+Male;40;Non Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 5,246;55;39;420.0%;90 Days;Age 0 to Age 55
+Male;45;Non Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 9,411;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;45;Non Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 10,140;68;102;1374.0%;90 Days;Age 0 to Age 50
+Male;45;Non Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 9,811;93;101;900.0%;90 Days;Age 0 to Age 50
+Male;45;Non Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 6,329;71;117;700.0%;60 Days;Age 0 to Age 50
+Male;45;Non Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 7,962;63;75;1300.0%;60 Days;Age 0 to Age 60
+Male;45;Non Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 6,764;69;69;Not specified;60 Days;Age 0 to Age 55
+Male;45;Non Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 6,591;69;69;720.0%;60 Days;Age 0 to Age 55
+Male;45;Non Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 7,187;62;65;1152.0%;90 Days;Age 0 to Age 50
+Male;45;Non Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 6,665;62;65;1121.0%;90 Days;Age 0 to Age 50
+Male;45;Non Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 5,786;68;50;740.0%;60 Days;Age 0 to Age 55
+Male;45;Non Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 6,412;60;44;900.0%;90 Days;Age 0 to Age 60
+Male;45;Non Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 6,494;63;75;1000.0%;60 Days;Age 0 to Age 60
+Male;45;Non Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 6,519;89;76;500.0%;60 Days;Age 0 to Age 50
+Male;45;Non Smoker;Health Critical Illness Extended Care III;Prudential | 保誠保險;9.0 / 10;8.8 / 10;9.2 / 10;25;USD 6,509;56;61;860.0%;90 Days;Age 0 to Age 49
+Male;45;Non Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 7,942;93;101;800.0%;90 Days;Age 0 to Age 50
+Male;45;Non Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 5,996;60;44;680.0%;90 Days;Age 0 to Age 60
+Male;45;Non Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 5,289;71;117;500.0%;60 Days;Age 0 to Age 50
+Male;45;Non Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 6,103;71;127;700.0%;60 Days;Age 0 to Age 50
+Male;45;Non Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 6,191;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;45;Non Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 5,491;60;63;500.0%;90 Days;Age 0 to Age 60
+Male;45;Non Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 5,985;69;83;500.0%;60 Days;Age 0 to Age 50
+Male;45;Non Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 7,028;60;30;700.0%;90 Days;Age 0 to Age 60
+Male;45;Non Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 7,239;63;62;1100.0%;90 Days;Age 0 to Age 50
+Male;45;Non Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 6,687;56;71;900.0%;90 Days;Age 0 to Age 49
+Male;45;Non Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 5,958;64;62;950.0%;90 Days;Age 0 to Age 50
+Male;45;Non Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 5,698;65;56;500.0%;60 Days;Age 0 to Age 55
+Male;45;Non Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 5,629;88;88;420.0%;90 Days;Age 0 to Age 50
+Male;45;Non Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 5,602;60;44;500.0%;90 Days;Age 0 to Age 60
+Male;45;Non Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 6,206;63;62;900.0%;90 Days;Age 0 to Age 50
+Male;45;Non Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 7,669;62;54;900.0%;60 Days;Age 0 to Age 50
+Male;45;Non Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 6,705;58;44;900.0%;90 Days;Age 0 to Age 55
+Male;45;Non Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 7,462;62;54;500.0%;60 Days;Age 0 to Age 50
+Male;45;Non Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 6,537;62;45;500.0%;60 Days;Age 0 to Age 45
+Male;45;Non Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 5,552;53;3;500.0%;90 Days;Age 0 to Age 55
+Male;45;Non Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 6,465;55;39;600.0%;90 Days;Age 0 to Age 55
+Male;45;Non Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 6,144;55;39;420.0%;90 Days;Age 0 to Age 55
+Female;0;Non Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 2,466;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;0;Non Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 2,528;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;0;Non Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 2,910;93;101;900.0%;90 Days;Age 0 to Age 50
+Female;0;Non Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 1,632;71;117;700.0%;60 Days;Age 0 to Age 50
+Female;0;Non Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 2,118;63;75;1300.0%;60 Days;Age 0 to Age 60
+Female;0;Non Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 1,514;69;69;Not specified;60 Days;Age 0 to Age 55
+Female;0;Non Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 1,514;69;69;720.0%;60 Days;Age 0 to Age 55
+Female;0;Non Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 1,976;62;65;1152.0%;90 Days;Age 0 to Age 55
+Female;0;Non Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 1,811;62;65;1121.0%;90 Days;Age 0 to Age 55
+Female;0;Non Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 1,793;68;50;740.0%;60 Days;Age 0 to Age 55
+Female;0;Non Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 1,739;60;44;900.0%;90 Days;Age 0 to Age 60
+Female;0;Non Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 1,806;63;75;1000.0%;60 Days;Age 0 to Age 60
+Female;0;Non Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 2,192;89;76;500.0%;60 Days;Age 0 to Age 50
+Female;0;Non Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 2,088;93;101;800.0%;90 Days;Age 0 to Age 50
+Female;0;Non Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 1,843;60;44;680.0%;90 Days;Age 0 to Age 60
+Female;0;Non Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 1,448;71;117;500.0%;60 Days;Age 0 to Age 50
+Female;0;Non Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 1,671;71;127;700.0%;60 Days;Age 0 to Age 50
+Female;0;Non Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 1,631;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;0;Non Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 1,451;60;63;500.0%;90 Days;Age 0 to Age 60
+Female;0;Non Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 1,587;69;83;500.0%;60 Days;Age 0 to Age 50
+Female;0;Non Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 1,853;60;30;700.0%;90 Days;Age 0 to Age 60
+Female;0;Non Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 1,964;63;62;1100.0%;90 Days;Age 0 to Age 50
+Female;0;Non Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 1,907;64;62;950.0%;90 Days;Age 0 to Age 50
+Female;0;Non Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 1,423;65;56;500.0%;60 Days;Age 0 to Age 55
+Female;0;Non Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 1,705;60;44;500.0%;90 Days;Age 0 to Age 60
+Female;0;Non Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 1,688;63;62;900.0%;90 Days;Age 0 to Age 50
+Female;0;Non Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;20;USD 1,810;62;54;900.0%;60 Days;Age 0 to Age 50
+Female;0;Non Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 2,060;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;0;Non Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;20;USD 1,744;62;54;500.0%;60 Days;Age 0 to Age 50
+Female;0;Non Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 1,946;62;45;500.0%;60 Days;Age 0 to Age 45
+Female;0;Non Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 1,376;53;3;500.0%;90 Days;Age 0 to Age 55
+Female;0;Non Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 1,785;55;39;600.0%;90 Days;Age 0 to Age 55
+Female;0;Non Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 1,664;55;39;420.0%;90 Days;Age 0 to Age 55
+Female;10;Non Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 3,113;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;10;Non Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 3,248;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;10;Non Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 3,586;93;101;900.0%;90 Days;Age 0 to Age 50
+Female;10;Non Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 2,163;71;117;700.0%;60 Days;Age 0 to Age 50
+Female;10;Non Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 2,747;63;75;1300.0%;60 Days;Age 0 to Age 60
+Female;10;Non Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 1,919;69;69;Not specified;60 Days;Age 0 to Age 55
+Female;10;Non Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 1,871;69;69;720.0%;60 Days;Age 0 to Age 55
+Female;10;Non Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 2,490;62;65;1152.0%;90 Days;Age 0 to Age 55
+Female;10;Non Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 2,277;62;65;1121.0%;90 Days;Age 0 to Age 55
+Female;10;Non Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 2,102;68;50;740.0%;60 Days;Age 0 to Age 55
+Female;10;Non Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 2,303;60;44;900.0%;90 Days;Age 0 to Age 60
+Female;10;Non Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 2,292;63;75;1000.0%;60 Days;Age 0 to Age 60
+Female;10;Non Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 2,568;89;76;500.0%;60 Days;Age 0 to Age 50
+Female;10;Non Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 2,649;93;101;800.0%;90 Days;Age 0 to Age 50
+Female;10;Non Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 2,366;60;44;680.0%;90 Days;Age 0 to Age 60
+Female;10;Non Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 1,889;71;117;500.0%;60 Days;Age 0 to Age 50
+Female;10;Non Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 2,107;71;127;700.0%;60 Days;Age 0 to Age 50
+Female;10;Non Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 2,106;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;10;Non Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 1,933;60;63;500.0%;90 Days;Age 0 to Age 60
+Female;10;Non Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 2,028;69;83;500.0%;60 Days;Age 0 to Age 50
+Female;10;Non Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 2,424;63;62;1100.0%;90 Days;Age 0 to Age 50
+Female;10;Non Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 2,516;60;30;700.0%;90 Days;Age 0 to Age 60
+Female;10;Non Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 2,322;64;62;950.0%;90 Days;Age 0 to Age 50
+Female;10;Non Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 1,798;65;56;500.0%;60 Days;Age 0 to Age 55
+Female;10;Non Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 2,180;60;44;500.0%;90 Days;Age 0 to Age 60
+Female;10;Non Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 2,055;63;62;900.0%;90 Days;Age 0 to Age 50
+Female;10;Non Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;20;USD 2,297;62;54;900.0%;60 Days;Age 0 to Age 50
+Female;10;Non Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 2,615;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;10;Non Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;20;USD 2,221;62;54;500.0%;60 Days;Age 0 to Age 50
+Female;10;Non Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 2,441;62;45;500.0%;60 Days;Age 0 to Age 45
+Female;10;Non Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 1,794;53;3;500.0%;90 Days;Age 0 to Age 55
+Female;10;Non Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 2,304;55;39;600.0%;90 Days;Age 0 to Age 55
+Female;10;Non Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 2,147;55;39;420.0%;90 Days;Age 0 to Age 55
+Female;18;Non Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 3,909;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;18;Non Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 4,136;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;18;Non Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 4,398;93;101;900.0%;90 Days;Age 0 to Age 50
+Female;18;Non Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 2,688;71;117;700.0%;60 Days;Age 0 to Age 50
+Female;18;Non Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 3,411;63;75;1300.0%;60 Days;Age 0 to Age 60
+Female;18;Non Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 2,214;69;69;Not specified;60 Days;Age 0 to Age 55
+Female;18;Non Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 2,214;69;69;720.0%;60 Days;Age 0 to Age 55
+Female;18;Non Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 2,991;62;65;1152.0%;90 Days;Age 0 to Age 55
+Female;18;Non Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 2,730;62;65;1121.0%;90 Days;Age 0 to Age 55
+Female;18;Non Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 2,451;68;50;740.0%;60 Days;Age 0 to Age 55
+Female;18;Non Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 2,921;60;44;900.0%;90 Days;Age 0 to Age 60
+Female;18;Non Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 2,820;63;75;1000.0%;60 Days;Age 0 to Age 60
+Female;18;Non Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 3,048;89;76;500.0%;60 Days;Age 0 to Age 50
+Female;18;Non Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 3,300;93;101;800.0%;90 Days;Age 0 to Age 50
+Female;18;Non Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 2,864;60;44;680.0%;90 Days;Age 0 to Age 60
+Female;18;Non Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 2,412;71;117;500.0%;60 Days;Age 0 to Age 50
+Female;18;Non Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 2,598;71;127;700.0%;60 Days;Age 0 to Age 50
+Female;18;Non Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 2,624;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;18;Non Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 2,475;69;83;500.0%;60 Days;Age 0 to Age 50
+Female;18;Non Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 2,486;60;63;500.0%;90 Days;Age 0 to Age 60
+Female;18;Non Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 3,023;63;62;1100.0%;90 Days;Age 0 to Age 50
+Female;18;Non Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 3,199;60;30;700.0%;90 Days;Age 0 to Age 60
+Female;18;Non Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 2,975;56;71;900.0%;90 Days;Age 0 to Age 49
+Female;18;Non Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 2,865;64;62;950.0%;90 Days;Age 0 to Age 50
+Female;18;Non Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 2,245;65;56;500.0%;60 Days;Age 0 to Age 55
+Female;18;Non Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 2,731;88;88;420.0%;90 Days;Age 0 to Age 50
+Female;18;Non Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 2,642;60;44;500.0%;90 Days;Age 0 to Age 60
+Female;18;Non Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 2,556;63;62;900.0%;90 Days;Age 0 to Age 50
+Female;18;Non Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 2,914;62;54;900.0%;60 Days;Age 0 to Age 50
+Female;18;Non Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 3,128;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;18;Non Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 2,821;62;54;500.0%;60 Days;Age 0 to Age 50
+Female;18;Non Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 3,000;62;45;500.0%;60 Days;Age 0 to Age 45
+Female;18;Non Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 2,271;53;3;500.0%;90 Days;Age 0 to Age 55
+Female;18;Non Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 2,295;55;39;600.0%;90 Days;Age 0 to Age 55
+Female;18;Non Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 2,646;55;39;420.0%;90 Days;Age 0 to Age 55
+Female;25;Non Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 4,655;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;25;Non Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 4,884;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;25;Non Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 5,377;93;101;900.0%;90 Days;Age 0 to Age 50
+Female;25;Non Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 3,224;71;117;700.0%;60 Days;Age 0 to Age 50
+Female;25;Non Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 4,128;63;75;1300.0%;60 Days;Age 0 to Age 60
+Female;25;Non Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 2,723;69;69;Not specified;60 Days;Age 0 to Age 55
+Female;25;Non Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 2,694;69;69;720.0%;60 Days;Age 0 to Age 55
+Female;25;Non Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 3,576;62;65;1152.0%;90 Days;Age 0 to Age 50
+Female;25;Non Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 3,276;62;65;1121.0%;90 Days;Age 0 to Age 50
+Female;25;Non Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 2,886;68;50;740.0%;60 Days;Age 0 to Age 55
+Female;25;Non Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 3,535;60;44;900.0%;90 Days;Age 0 to Age 60
+Female;25;Non Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 3,398;63;75;1000.0%;60 Days;Age 0 to Age 60
+Female;25;Non Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 3,651;89;76;500.0%;60 Days;Age 0 to Age 50
+Female;25;Non Smoker;Health Critical Illness Extended Care III;Prudential | 保誠保險;9.0 / 10;8.8 / 10;9.2 / 10;25;USD 3,668;56;61;860.0%;90 Days;Age 0 to Age 49
+Female;25;Non Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 4,077;93;101;800.0%;90 Days;Age 0 to Age 50
+Female;25;Non Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 3,449;60;44;680.0%;90 Days;Age 0 to Age 60
+Female;25;Non Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 2,757;71;117;500.0%;60 Days;Age 0 to Age 50
+Female;25;Non Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 3,106;71;127;700.0%;60 Days;Age 0 to Age 50
+Female;25;Non Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 3,191;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;25;Non Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 2,884;60;63;500.0%;90 Days;Age 0 to Age 60
+Female;25;Non Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 3,003;69;83;500.0%;60 Days;Age 0 to Age 50
+Female;25;Non Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 3,684;63;62;1100.0%;90 Days;Age 0 to Age 50
+Female;25;Non Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 4,003;60;30;700.0%;90 Days;Age 0 to Age 60
+Female;25;Non Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 3,626;56;71;900.0%;90 Days;Age 0 to Age 49
+Female;25;Non Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 3,437;64;62;950.0%;90 Days;Age 0 to Age 50
+Female;25;Non Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 2,746;65;56;500.0%;60 Days;Age 0 to Age 55
+Female;25;Non Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 3,303;88;88;420.0%;90 Days;Age 0 to Age 50
+Female;25;Non Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 3,181;60;44;500.0%;90 Days;Age 0 to Age 60
+Female;25;Non Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 3,125;63;62;900.0%;90 Days;Age 0 to Age 50
+Female;25;Non Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 3,656;62;54;900.0%;60 Days;Age 0 to Age 50
+Female;25;Non Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 3,672;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;25;Non Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 3,541;62;54;500.0%;60 Days;Age 0 to Age 50
+Female;25;Non Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 3,513;62;45;500.0%;60 Days;Age 0 to Age 45
+Female;25;Non Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 2,837;53;3;500.0%;90 Days;Age 0 to Age 55
+Female;25;Non Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 3,500;55;39;600.0%;90 Days;Age 0 to Age 55
+Female;25;Non Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 3,258;55;39;420.0%;90 Days;Age 0 to Age 55
+Female;30;Non Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 5,127;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;30;Non Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 5,528;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;30;Non Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 6,237;93;101;900.0%;90 Days;Age 0 to Age 50
+Female;30;Non Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 3,776;71;117;700.0%;60 Days;Age 0 to Age 50
+Female;30;Non Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 4,833;63;75;1300.0%;60 Days;Age 0 to Age 60
+Female;30;Non Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 3,209;69;69;Not specified;60 Days;Age 0 to Age 55
+Female;30;Non Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 3,143;69;69;720.0%;60 Days;Age 0 to Age 55
+Female;30;Non Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 4,070;62;65;1152.0%;90 Days;Age 0 to Age 55
+Female;30;Non Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 3,738;62;65;1121.0%;90 Days;Age 0 to Age 55
+Female;30;Non Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 3,230;68;50;740.0%;60 Days;Age 0 to Age 55
+Female;30;Non Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 4,103;60;44;900.0%;90 Days;Age 0 to Age 60
+Female;30;Non Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 3,882;63;75;1000.0%;60 Days;Age 0 to Age 60
+Female;30;Non Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 4,133;89;76;500.0%;60 Days;Age 0 to Age 50
+Female;30;Non Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 4,753;93;101;800.0%;90 Days;Age 0 to Age 50
+Female;30;Non Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 4,013;60;44;680.0%;90 Days;Age 0 to Age 60
+Female;30;Non Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 3,270;71;117;500.0%;60 Days;Age 0 to Age 50
+Female;30;Non Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 3,636;71;127;700.0%;60 Days;Age 0 to Age 50
+Female;30;Non Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 3,668;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;30;Non Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 3,335;60;63;500.0%;90 Days;Age 0 to Age 60
+Female;30;Non Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 3,531;69;83;500.0%;60 Days;Age 0 to Age 50
+Female;30;Non Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 4,286;63;62;1100.0%;90 Days;Age 0 to Age 50
+Female;30;Non Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 4,700;60;30;700.0%;90 Days;Age 0 to Age 60
+Female;30;Non Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 4,247;56;71;900.0%;90 Days;Age 0 to Age 49
+Female;30;Non Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 3,906;64;62;950.0%;90 Days;Age 0 to Age 50
+Female;30;Non Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 3,256;65;56;500.0%;60 Days;Age 0 to Age 55
+Female;30;Non Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 3,883;88;88;420.0%;90 Days;Age 0 to Age 50
+Female;30;Non Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 3,701;60;44;500.0%;90 Days;Age 0 to Age 60
+Female;30;Non Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 3,651;63;62;900.0%;90 Days;Age 0 to Age 50
+Female;30;Non Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 4,360;62;54;900.0%;60 Days;Age 0 to Age 50
+Female;30;Non Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 4,127;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;30;Non Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 4,220;62;54;500.0%;60 Days;Age 0 to Age 50
+Female;30;Non Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 3,873;62;45;500.0%;60 Days;Age 0 to Age 45
+Female;30;Non Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 3,366;53;3;500.0%;90 Days;Age 0 to Age 55
+Female;30;Non Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 3,252;55;39;600.0%;90 Days;Age 0 to Age 55
+Female;30;Non Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 3,732;55;39;420.0%;90 Days;Age 0 to Age 55
+Female;35;Non Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 5,985;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;35;Non Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 6,477;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;35;Non Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 7,206;93;101;900.0%;90 Days;Age 0 to Age 50
+Female;35;Non Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 4,448;71;117;700.0%;60 Days;Age 0 to Age 50
+Female;35;Non Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 5,598;63;75;1300.0%;60 Days;Age 0 to Age 60
+Female;35;Non Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 3,971;69;69;Not specified;60 Days;Age 0 to Age 55
+Female;35;Non Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 4,016;69;69;720.0%;60 Days;Age 0 to Age 55
+Female;35;Non Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 4,782;62;65;1152.0%;90 Days;Age 0 to Age 50
+Female;35;Non Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 4,394;62;65;1121.0%;90 Days;Age 0 to Age 50
+Female;35;Non Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 3,983;68;50;740.0%;60 Days;Age 0 to Age 55
+Female;35;Non Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 4,790;60;44;900.0%;90 Days;Age 0 to Age 60
+Female;35;Non Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 4,604;63;75;1000.0%;60 Days;Age 0 to Age 60
+Female;35;Non Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 4,898;89;76;500.0%;60 Days;Age 0 to Age 50
+Female;35;Non Smoker;Health Critical Illness Extended Care III;Prudential | 保誠保險;9.0 / 10;8.8 / 10;9.2 / 10;25;USD 4,962;56;61;860.0%;90 Days;Age 0 to Age 49
+Female;35;Non Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 5,487;93;101;800.0%;90 Days;Age 0 to Age 50
+Female;35;Non Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 4,658;60;44;680.0%;90 Days;Age 0 to Age 60
+Female;35;Non Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 3,816;71;117;500.0%;60 Days;Age 0 to Age 50
+Female;35;Non Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 4,305;71;127;700.0%;60 Days;Age 0 to Age 50
+Female;35;Non Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 4,374;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;35;Non Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 3,977;60;63;500.0%;90 Days;Age 0 to Age 60
+Female;35;Non Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 4,180;69;83;500.0%;60 Days;Age 0 to Age 50
+Female;35;Non Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 5,024;63;62;1100.0%;90 Days;Age 0 to Age 50
+Female;35;Non Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 5,435;60;30;700.0%;90 Days;Age 0 to Age 60
+Female;35;Non Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 5,036;56;71;900.0%;90 Days;Age 0 to Age 49
+Female;35;Non Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 4,635;64;62;950.0%;90 Days;Age 0 to Age 50
+Female;35;Non Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 3,853;65;56;500.0%;60 Days;Age 0 to Age 55
+Female;35;Non Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 4,537;88;88;420.0%;90 Days;Age 0 to Age 50
+Female;35;Non Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 4,297;60;44;500.0%;90 Days;Age 0 to Age 60
+Female;35;Non Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 4,253;63;62;900.0%;90 Days;Age 0 to Age 50
+Female;35;Non Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 5,240;62;54;900.0%;60 Days;Age 0 to Age 50
+Female;35;Non Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 4,712;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;35;Non Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 5,064;62;54;500.0%;60 Days;Age 0 to Age 50
+Female;35;Non Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 4,361;62;45;500.0%;60 Days;Age 0 to Age 45
+Female;35;Non Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 3,941;53;3;500.0%;90 Days;Age 0 to Age 55
+Female;35;Non Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 4,596;55;39;600.0%;90 Days;Age 0 to Age 55
+Female;35;Non Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 4,278;55;39;420.0%;90 Days;Age 0 to Age 55
+Female;40;Non Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 7,125;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;40;Non Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 7,737;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;40;Non Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 8,551;93;101;900.0%;90 Days;Age 0 to Age 50
+Female;40;Non Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 5,409;71;117;700.0%;60 Days;Age 0 to Age 50
+Female;40;Non Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 6,780;63;75;1300.0%;60 Days;Age 0 to Age 60
+Female;40;Non Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 4,742;69;69;Not specified;60 Days;Age 0 to Age 55
+Female;40;Non Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 5,126;69;69;720.0%;60 Days;Age 0 to Age 55
+Female;40;Non Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 5,796;62;65;1152.0%;90 Days;Age 0 to Age 55
+Female;40;Non Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 5,351;62;65;1121.0%;90 Days;Age 0 to Age 55
+Female;40;Non Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 4,880;68;50;740.0%;60 Days;Age 0 to Age 55
+Female;40;Non Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 5,650;60;44;900.0%;90 Days;Age 0 to Age 60
+Female;40;Non Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 5,408;63;75;1000.0%;60 Days;Age 0 to Age 60
+Female;40;Non Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 5,661;89;76;500.0%;60 Days;Age 0 to Age 50
+Female;40;Non Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 6,484;93;101;800.0%;90 Days;Age 0 to Age 50
+Female;40;Non Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 5,393;60;44;680.0%;90 Days;Age 0 to Age 60
+Female;40;Non Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 4,647;71;117;500.0%;60 Days;Age 0 to Age 50
+Female;40;Non Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 5,209;71;127;700.0%;60 Days;Age 0 to Age 50
+Female;40;Non Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 5,139;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;40;Non Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 4,762;60;63;500.0%;90 Days;Age 0 to Age 60
+Female;40;Non Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 5,058;69;83;500.0%;60 Days;Age 0 to Age 50
+Female;40;Non Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 5,825;63;62;1100.0%;90 Days;Age 0 to Age 50
+Female;40;Non Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 6,317;60;30;700.0%;90 Days;Age 0 to Age 60
+Female;40;Non Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 5,882;56;71;900.0%;90 Days;Age 0 to Age 49
+Female;40;Non Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 5,223;64;62;950.0%;90 Days;Age 0 to Age 50
+Female;40;Non Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 4,477;65;56;500.0%;60 Days;Age 0 to Age 55
+Female;40;Non Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 5,275;88;88;420.0%;90 Days;Age 0 to Age 50
+Female;40;Non Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 4,984;60;44;500.0%;90 Days;Age 0 to Age 60
+Female;40;Non Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 5,172;63;62;900.0%;90 Days;Age 0 to Age 50
+Female;40;Non Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 6,290;62;54;900.0%;60 Days;Age 0 to Age 50
+Female;40;Non Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 5,648;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;40;Non Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 6,084;62;54;500.0%;60 Days;Age 0 to Age 50
+Female;40;Non Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 4,901;62;45;500.0%;60 Days;Age 0 to Age 45
+Female;40;Non Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 4,620;53;3;500.0%;90 Days;Age 0 to Age 55
+Female;40;Non Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 4,319;55;39;600.0%;90 Days;Age 0 to Age 55
+Female;40;Non Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 5,094;55;39;420.0%;90 Days;Age 0 to Age 55
+Female;45;Non Smoker;Crisis OneMaster;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 8,355;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;45;Non Smoker;Crisis OneMaster Pro;FWD | 富衛;9.9 / 10;10.0 / 10;9.0 / 10;25;USD 9,105;68;102;1374.0%;90 Days;Age 0 to Age 50
+Female;45;Non Smoker;TotalGuard Critical Illness Multiple Protector (SS);China Life | 中國人壽;9.6 / 10;9.4 / 10;10 / 10;25;USD 9,919;93;101;900.0%;90 Days;Age 0 to Age 50
+Female;45;Non Smoker;SunWell Supreme Care;Sun Life | Sun Life 永明;9.4 / 10;9.5 / 10;7.8 / 10;25;USD 6,260;71;117;700.0%;60 Days;Age 0 to Age 50
+Female;45;Non Smoker;TotalAssure Plus Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.5 / 10;9.2 / 10;10 / 10;25;USD 7,956;63;75;1300.0%;60 Days;Age 0 to Age 60
+Female;45;Non Smoker;LionGuardian Beyond;Generali | 忠意保險;9.4 / 10;9.3 / 10;9.5 / 10;25;USD 6,731;69;69;Not specified;60 Days;Age 0 to Age 55
+Female;45;Non Smoker;LionAlong;Generali | 忠意保險;9.3 / 10;9.4 / 10;9.3 / 10;25;USD 6,693;69;69;720.0%;60 Days;Age 0 to Age 55
+Female;45;Non Smoker;Crisis USupporter Pro;FWD | 富衛;9.2 / 10;9.3 / 10;8.8 / 10;25;USD 6,770;62;65;1152.0%;90 Days;Age 0 to Age 50
+Female;45;Non Smoker;Crisis USupporter;FWD | 富衛;9.1 / 10;9.2 / 10;8.8 / 10;25;USD 6,278;62;65;1121.0%;90 Days;Age 0 to Age 50
+Female;45;Non Smoker;PrimeHealth Pro (Signature);YF Life | 萬通保險;9.3 / 10;9.2 / 10;9.6 / 10;25;USD 5,558;68;50;740.0%;60 Days;Age 0 to Age 55
+Female;45;Non Smoker;ManuPrimo Care;Manulife | 宏利;9.1 / 10;8.8 / 10;9.6 / 10;25;USD 6,541;60;44;900.0%;90 Days;Age 0 to Age 60
+Female;45;Non Smoker;TotalAssure Critical Illness Plan;AXA Hong Kong and Macau | AXA 安盛;9.1 / 10;9.1 / 10;9 / 10;25;USD 6,339;63;75;1000.0%;60 Days;Age 0 to Age 60
+Female;45;Non Smoker;Critical Illness 188 Whole Life Insurance Plan;BOC Life | 中銀人壽;8.8 / 10;9.2 / 10;8.3 / 10;25;USD 6,693;89;76;500.0%;60 Days;Age 0 to Age 50
+Female;45;Non Smoker;Health Critical Illness Extended Care III;Prudential | 保誠保險;9.0 / 10;8.8 / 10;9.2 / 10;25;USD 6,525;56;61;860.0%;90 Days;Age 0 to Age 49
+Female;45;Non Smoker;TotalGuard Critical Illness Multiple Protector;China Life | 中國人壽;8.9 / 10;8.8 / 10;9.1 / 10;25;USD 7,545;93;101;800.0%;90 Days;Age 0 to Age 50
+Female;45;Non Smoker;ManuBright Care 2 Plus;Manulife | 宏利;8.8 / 10;8.8 / 10;8.6 / 10;25;USD 6,079;60;44;680.0%;90 Days;Age 0 to Age 60
+Female;45;Non Smoker;SunWell Advanced Care;Sun Life | Sun Life 永明;8.6 / 10;8.7 / 10;7.8 / 10;25;USD 5,318;71;117;500.0%;60 Days;Age 0 to Age 50
+Female;45;Non Smoker;FamCare 198;CTF Life | 周大福人壽;8.7 / 10;9.4 / 10;7.6 / 10;25;USD 6,034;71;127;700.0%;60 Days;Age 0 to Age 50
+Female;45;Non Smoker;On Your SIde Plan;AIA | 友邦香港;8.7 / 10;9.1 / 10;8.2 / 10;25;USD 6,060;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;45;Non Smoker;Manulife Bright Care PRO;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 5,492;60;63;500.0%;90 Days;Age 0 to Age 60
+Female;45;Non Smoker;HealthCare 168 Plus;CTF Life | 周大福人壽;8.6 / 10;8.8 / 10;8.3 / 10;25;USD 6,034;69;83;500.0%;60 Days;Age 0 to Age 50
+Female;45;Non Smoker;SunHealth OmniCare Plan 3;Sun Life | Sun Life 永明;8.6 / 10;9 / 10;8 / 10;25;USD 6,816;63;62;1100.0%;90 Days;Age 0 to Age 50
+Female;45;Non Smoker;ManuLove Care;Manulife | 宏利;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 7,112;60;30;700.0%;90 Days;Age 0 to Age 60
+Female;45;Non Smoker;PRUHealth Guardian Critical Illness Plan;Prudential | 保誠保險;8.6 / 10;8.8 / 10;8.2 / 10;25;USD 6,783;56;71;900.0%;90 Days;Age 0 to Age 49
+Female;45;Non Smoker;SunHealth LovePromise;Sun Life | Sun Life 永明;8.5 / 10;8.9 / 10;7.9 / 10;25;USD 6,197;64;62;950.0%;90 Days;Age 0 to Age 50
+Female;45;Non Smoker;Embrace Care Critical Illness Protector;Chubb Life | 安達人壽;8.4 / 10;8.6 / 10;8.1 / 10;25;USD 5,235;65;56;500.0%;60 Days;Age 0 to Age 55
+Female;45;Non Smoker;Elite Care Critical Illness Insurance Plan;China Life | 中國人壽;8.4 / 10;8.8 / 10;7.9 / 10;25;USD 5,932;88;88;420.0%;90 Days;Age 0 to Age 50
+Female;45;Non Smoker;ManuBright Care 2;Manulife | 宏利;8.2 / 10;8.8 / 10;7.2 / 10;25;USD 5,660;60;44;500.0%;90 Days;Age 0 to Age 60
+Female;45;Non Smoker;SunHealth OmniCare Plan 2;Sun Life | Sun Life 永明;8.2 / 10;9 / 10;7 / 10;25;USD 5,958;63;62;900.0%;90 Days;Age 0 to Age 50
+Female;45;Non Smoker;AXA Health Vital 2 (Early and Multi Supp Plus);AXA Hong Kong and Macau | AXA 安盛;8.0 / 10;8.4 / 10;7.4 / 10;25;USD 7,373;62;54;900.0%;60 Days;Age 0 to Age 50
+Female;45;Non Smoker;Smart Elite Ultra;AIA | 友邦香港;7.8 / 10;8.3 / 10;7 / 10;25;USD 6,422;58;44;900.0%;90 Days;Age 0 to Age 55
+Female;45;Non Smoker;AXA Health Vital 2 (Early and Multi Supp);AXA Hong Kong and Macau | AXA 安盛;7.6 / 10;8.4 / 10;6.4 / 10;25;USD 7,142;62;54;500.0%;60 Days;Age 0 to Age 50
+Female;45;Non Smoker;Well Protect Critical Illness Insurance Plan;Well Link Life | 立橋人壽;7.3 / 10;8.3 / 10;5.8 / 10;20;USD 5,573;62;45;500.0%;60 Days;Age 0 to Age 45
+Female;45;Non Smoker;Multi Care Pro 2;AIA | 友邦香港;7.4 / 10;7.8 / 10;6.9 / 10;25;USD 5,354;53;3;500.0%;90 Days;Age 0 to Age 55
+Female;45;Non Smoker;BestCarePro (Multiple claims rider);BOC Life | 中銀人壽;7.3 / 10;7.9 / 10;6.4 / 10;20;USD 6,180;55;39;600.0%;90 Days;Age 0 to Age 55
+Female;45;Non Smoker;Smart Guard Critical Illness Plan;BOC Life | 中銀人壽;7.0 / 10;8.4 / 10;4.9 / 10;20;USD 5,874;55;39;420.0%;90 Days;Age 0 to Age 55
