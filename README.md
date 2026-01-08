@@ -44,6 +44,9 @@ pip install -r requirements.txt
 
 ## Running the Application
 
+Create you own .env file (use for call github llm api):
+![My Photo](./image/env.png)
+
 Run the Streamlit application:
 ```bash
 streamlit run app.py
